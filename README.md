@@ -119,56 +119,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mUoChnvp6sE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=veP6jdvy7j8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791039169&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=760">
-          <img src="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791039169&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=760" alt="Why Philosophers Are Worried About AI" title="Why Philosophers Are Worried About AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791217609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
+          <img src="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791217609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing" title="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BXZrEM-_MLw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w3u7NV0k3h0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791049969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
-          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791049969&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791188809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=537">
+          <img src="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791188809&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=537" alt="WEDGE ISSUE: Democrats use AI to win over blue-collar voters" title="WEDGE ISSUE: Democrats use AI to win over blue-collar voters">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wULlr9BiTVs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jq0AfkW-174" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wULlr9BiTVs&title=Peter+Norvig+Disagrees+With+Yann+LeCun.+Here%E2%80%99s+Why&lang=en&timestamp=1791031969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1099">
-          <img src="https://ytcards.demolab.com/?id=wULlr9BiTVs&title=Peter+Norvig+Disagrees+With+Yann+LeCun.+Here%E2%80%99s+Why&lang=en&timestamp=1791031969&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1099" alt="Peter Norvig Disagrees With Yann LeCun. Here’s Why" title="Peter Norvig Disagrees With Yann LeCun. Here’s Why">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791232009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3184">
+          <img src="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791232009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3184" alt="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality" title="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hz4AMy5vdwA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tdK9eT1KBmk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791057169&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1239">
-          <img src="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791057169&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1239" alt="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity" title="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791192409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
+          <img src="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791192409&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology" title="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CHZ1KxpvAuU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BUMy-KPGJY4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791035569&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
-          <img src="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791035569&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="Rogue AI concerns hearing" title="Rogue AI concerns hearing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BUMy-KPGJY4&title=689.+Artificial+Intelligence+and+the+Threat+to+Independent+Thought+with+Bruno+Giussani&lang=en&timestamp=1791214009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3466">
+          <img src="https://ytcards.demolab.com/?id=BUMy-KPGJY4&title=689.+Artificial+Intelligence+and+the+Threat+to+Independent+Thought+with+Bruno+Giussani&lang=en&timestamp=1791214009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3466" alt="689. Artificial Intelligence and the Threat to Independent Thought with Bruno Giussani" title="689. Artificial Intelligence and the Threat to Independent Thought with Bruno Giussani">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xGf7kglapR8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f-8r4uZFHYE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791057169&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
-          <img src="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791057169&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="AI expert pokes fun at ‘APOCALYPTIC pessimism’" title="AI expert pokes fun at ‘APOCALYPTIC pessimism’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-8r4uZFHYE&title=What+Exactly+is+AGI%3F+Is+AGI+here%3F&lang=en&timestamp=1791214009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=933">
+          <img src="https://ytcards.demolab.com/?id=f-8r4uZFHYE&title=What+Exactly+is+AGI%3F+Is+AGI+here%3F&lang=en&timestamp=1791214009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=933" alt="What Exactly is AGI? Is AGI here?" title="What Exactly is AGI? Is AGI here?">
         </picture>
       </a>
     </td>
