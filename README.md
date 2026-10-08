@@ -120,56 +120,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=veP6jdvy7j8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791217609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
-          <img src="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791217609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing" title="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=The+70+years+between+Artificial+and+Super+Intelligence&lang=en&timestamp=1791374777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
+          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=The+70+years+between+Artificial+and+Super+Intelligence&lang=en&timestamp=1791374777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="The 70 years between Artificial and Super Intelligence" title="The 70 years between Artificial and Super Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w3u7NV0k3h0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xdwFncdu8t0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791188809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=537">
-          <img src="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791188809&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=537" alt="WEDGE ISSUE: Democrats use AI to win over blue-collar voters" title="WEDGE ISSUE: Democrats use AI to win over blue-collar voters">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791385577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
+          <img src="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791385577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="The Experts Were Wrong About AI. Again." title="The Experts Were Wrong About AI. Again.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jq0AfkW-174" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xSr_IfyNWu0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791232009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3184">
-          <img src="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791232009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3184" alt="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality" title="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791403577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
+          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791403577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tdK9eT1KBmk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7BZwjZerP-A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791192409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
-          <img src="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791192409&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology" title="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7BZwjZerP-A&title=The+AI+Wave+is+Irreversible%3A+The+World+Rewritten+in+Two+Years%21+%7C+HKEJ+Interview+%7C+AI+%7C+Artificial...&lang=en&timestamp=1791374777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2131">
+          <img src="https://ytcards.demolab.com/?id=7BZwjZerP-A&title=The+AI+Wave+is+Irreversible%3A+The+World+Rewritten+in+Two+Years%21+%7C+HKEJ+Interview+%7C+AI+%7C+Artificial...&lang=en&timestamp=1791374777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2131" alt="The AI Wave is Irreversible: The World Rewritten in Two Years! | HKEJ Interview | AI | Artificial..." title="The AI Wave is Irreversible: The World Rewritten in Two Years! | HKEJ Interview | AI | Artificial...">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BUMy-KPGJY4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9l9rJAbLuhM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BUMy-KPGJY4&title=689.+Artificial+Intelligence+and+the+Threat+to+Independent+Thought+with+Bruno+Giussani&lang=en&timestamp=1791214009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3466">
-          <img src="https://ytcards.demolab.com/?id=BUMy-KPGJY4&title=689.+Artificial+Intelligence+and+the+Threat+to+Independent+Thought+with+Bruno+Giussani&lang=en&timestamp=1791214009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3466" alt="689. Artificial Intelligence and the Threat to Independent Thought with Bruno Giussani" title="689. Artificial Intelligence and the Threat to Independent Thought with Bruno Giussani">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9l9rJAbLuhM&title=Instadocs%3A+AI+Gone+Wild+%7C+Official+Teaser+%7C+Netflix&lang=en&timestamp=1791389177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=105">
+          <img src="https://ytcards.demolab.com/?id=9l9rJAbLuhM&title=Instadocs%3A+AI+Gone+Wild+%7C+Official+Teaser+%7C+Netflix&lang=en&timestamp=1791389177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=105" alt="Instadocs: AI Gone Wild | Official Teaser | Netflix" title="Instadocs: AI Gone Wild | Official Teaser | Netflix">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=f-8r4uZFHYE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XemZ_lq9UpQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-8r4uZFHYE&title=What+Exactly+is+AGI%3F+Is+AGI+here%3F&lang=en&timestamp=1791214009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=933">
-          <img src="https://ytcards.demolab.com/?id=f-8r4uZFHYE&title=What+Exactly+is+AGI%3F+Is+AGI+here%3F&lang=en&timestamp=1791214009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=933" alt="What Exactly is AGI? Is AGI here?" title="What Exactly is AGI? Is AGI here?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XemZ_lq9UpQ&title=AI%27s+God+Syndrome+Won%27t+Help+Humans+In+Future+%7C+Vineet+Nayar+%7C+Human+Intelligence+%26+Creativity+%7C+TSA&lang=en&timestamp=1791381977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
+          <img src="https://ytcards.demolab.com/?id=XemZ_lq9UpQ&title=AI%27s+God+Syndrome+Won%27t+Help+Humans+In+Future+%7C+Vineet+Nayar+%7C+Human+Intelligence+%26+Creativity+%7C+TSA&lang=en&timestamp=1791381977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI's God Syndrome Won't Help Humans In Future | Vineet Nayar | Human Intelligence & Creativity | TSA" title="AI's God Syndrome Won't Help Humans In Future | Vineet Nayar | Human Intelligence & Creativity | TSA">
         </picture>
       </a>
     </td>
