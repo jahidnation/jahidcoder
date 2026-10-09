@@ -121,56 +121,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CqDktOJfwNE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=The+70+years+between+Artificial+and+Super+Intelligence&lang=en&timestamp=1791374777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
-          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=The+70+years+between+Artificial+and+Super+Intelligence&lang=en&timestamp=1791374777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="The 70 years between Artificial and Super Intelligence" title="The 70 years between Artificial and Super Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CqDktOJfwNE&title=%22The+AI+Doc%3A+Or+How+I+Became+an+Apocaloptimist%22%3A+Daniel+Roher%2C+Tristan+Harris+Discuss+New+Film&lang=en&timestamp=1791472151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1476">
+          <img src="https://ytcards.demolab.com/?id=CqDktOJfwNE&title=%22The+AI+Doc%3A+Or+How+I+Became+an+Apocaloptimist%22%3A+Daniel+Roher%2C+Tristan+Harris+Discuss+New+Film&lang=en&timestamp=1791472151&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1476" alt="&quot;The AI Doc: Or How I Became an Apocaloptimist&quot;: Daniel Roher, Tristan Harris Discuss New Film" title="&quot;The AI Doc: Or How I Became an Apocaloptimist&quot;: Daniel Roher, Tristan Harris Discuss New Film">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xdwFncdu8t0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2ErK24JQh4Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791385577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
-          <img src="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791385577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="The Experts Were Wrong About AI. Again." title="The Experts Were Wrong About AI. Again.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2ErK24JQh4Y&title=Trump+Announces+New+AI+Investments%2C+Backs+Industry+Self-Regulation&lang=en&timestamp=1791493751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79">
+          <img src="https://ytcards.demolab.com/?id=2ErK24JQh4Y&title=Trump+Announces+New+AI+Investments%2C+Backs+Industry+Self-Regulation&lang=en&timestamp=1791493751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=79" alt="Trump Announces New AI Investments, Backs Industry Self-Regulation" title="Trump Announces New AI Investments, Backs Industry Self-Regulation">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xSr_IfyNWu0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0f3LNe1bqdI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791403577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
-          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791403577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0f3LNe1bqdI&title=Microsoft+President%3A+AI+is+less+regulated+than+your+washing+machine&lang=en&timestamp=1791472151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2398">
+          <img src="https://ytcards.demolab.com/?id=0f3LNe1bqdI&title=Microsoft+President%3A+AI+is+less+regulated+than+your+washing+machine&lang=en&timestamp=1791472151&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2398" alt="Microsoft President: AI is less regulated than your washing machine" title="Microsoft President: AI is less regulated than your washing machine">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7BZwjZerP-A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OD8fMvRSyDU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7BZwjZerP-A&title=The+AI+Wave+is+Irreversible%3A+The+World+Rewritten+in+Two+Years%21+%7C+HKEJ+Interview+%7C+AI+%7C+Artificial...&lang=en&timestamp=1791374777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2131">
-          <img src="https://ytcards.demolab.com/?id=7BZwjZerP-A&title=The+AI+Wave+is+Irreversible%3A+The+World+Rewritten+in+Two+Years%21+%7C+HKEJ+Interview+%7C+AI+%7C+Artificial...&lang=en&timestamp=1791374777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2131" alt="The AI Wave is Irreversible: The World Rewritten in Two Years! | HKEJ Interview | AI | Artificial..." title="The AI Wave is Irreversible: The World Rewritten in Two Years! | HKEJ Interview | AI | Artificial...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OD8fMvRSyDU&title=%E2%80%98Corrupt%2C+Probably+Senile+%26+A+Felon%E2%80%99%3A+Nobel+Laureate+Hinton%E2%80%99s+Brutal+Trump+Roast+Cracks+Up+The+Crowd&lang=en&timestamp=1791464951&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4121">
+          <img src="https://ytcards.demolab.com/?id=OD8fMvRSyDU&title=%E2%80%98Corrupt%2C+Probably+Senile+%26+A+Felon%E2%80%99%3A+Nobel+Laureate+Hinton%E2%80%99s+Brutal+Trump+Roast+Cracks+Up+The+Crowd&lang=en&timestamp=1791464951&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4121" alt="‘Corrupt, Probably Senile & A Felon’: Nobel Laureate Hinton’s Brutal Trump Roast Cracks Up The Crowd" title="‘Corrupt, Probably Senile & A Felon’: Nobel Laureate Hinton’s Brutal Trump Roast Cracks Up The Crowd">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9l9rJAbLuhM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vRkWhtEX6Nw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9l9rJAbLuhM&title=Instadocs%3A+AI+Gone+Wild+%7C+Official+Teaser+%7C+Netflix&lang=en&timestamp=1791389177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=105">
-          <img src="https://ytcards.demolab.com/?id=9l9rJAbLuhM&title=Instadocs%3A+AI+Gone+Wild+%7C+Official+Teaser+%7C+Netflix&lang=en&timestamp=1791389177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=105" alt="Instadocs: AI Gone Wild | Official Teaser | Netflix" title="Instadocs: AI Gone Wild | Official Teaser | Netflix">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vRkWhtEX6Nw&title=WA+leaders+calling+for+new+artificial+intelligence+regulations&lang=en&timestamp=1791472151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=219">
+          <img src="https://ytcards.demolab.com/?id=vRkWhtEX6Nw&title=WA+leaders+calling+for+new+artificial+intelligence+regulations&lang=en&timestamp=1791472151&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=219" alt="WA leaders calling for new artificial intelligence regulations" title="WA leaders calling for new artificial intelligence regulations">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XemZ_lq9UpQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rHDyRti_1oU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XemZ_lq9UpQ&title=AI%27s+God+Syndrome+Won%27t+Help+Humans+In+Future+%7C+Vineet+Nayar+%7C+Human+Intelligence+%26+Creativity+%7C+TSA&lang=en&timestamp=1791381977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
-          <img src="https://ytcards.demolab.com/?id=XemZ_lq9UpQ&title=AI%27s+God+Syndrome+Won%27t+Help+Humans+In+Future+%7C+Vineet+Nayar+%7C+Human+Intelligence+%26+Creativity+%7C+TSA&lang=en&timestamp=1791381977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI's God Syndrome Won't Help Humans In Future | Vineet Nayar | Human Intelligence & Creativity | TSA" title="AI's God Syndrome Won't Help Humans In Future | Vineet Nayar | Human Intelligence & Creativity | TSA">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rHDyRti_1oU&title=China+expert+on+the+AI+race&lang=en&timestamp=1791450551&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5153">
+          <img src="https://ytcards.demolab.com/?id=rHDyRti_1oU&title=China+expert+on+the+AI+race&lang=en&timestamp=1791450551&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5153" alt="China expert on the AI race" title="China expert on the AI race">
         </picture>
       </a>
     </td>
