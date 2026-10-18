@@ -124,56 +124,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TDcZoforVYU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TDcZoforVYU&title=October+15%3A+AI+Innovation+Summit+on+Artificial+Intelligence&lang=en&timestamp=1792103980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13901">
-          <img src="https://ytcards.demolab.com/?id=TDcZoforVYU&title=October+15%3A+AI+Innovation+Summit+on+Artificial+Intelligence&lang=en&timestamp=1792103980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13901" alt="October 15: AI Innovation Summit on Artificial Intelligence" title="October 15: AI Innovation Summit on Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792247770&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
+          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792247770&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SAeF9BfzgcA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zteHWsdTNDE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SAeF9BfzgcA&title=AI%E1%8D%A3+%E1%8D%88%E1%8C%A0%E1%88%AB+%E1%8A%A5%E1%8A%93+%E1%8B%A8%E1%8A%A2%E1%89%B5%E1%8B%AE%E1%8C%B5%E1%8B%AB+%E1%8B%A8%E1%8B%88%E1%8B%B0%E1%8D%8A%E1%89%B5+%E1%8B%95%E1%8C%A3+%E1%8D%88%E1%8A%95%E1%89%B3+%7C++%E1%88%B0%E1%88%88%E1%88%9E%E1%8A%95+%E1%8A%AB%E1%88%B3+S2+EP8&lang=en&timestamp=1792067980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13874">
-          <img src="https://ytcards.demolab.com/?id=SAeF9BfzgcA&title=AI%E1%8D%A3+%E1%8D%88%E1%8C%A0%E1%88%AB+%E1%8A%A5%E1%8A%93+%E1%8B%A8%E1%8A%A2%E1%89%B5%E1%8B%AE%E1%8C%B5%E1%8B%AB+%E1%8B%A8%E1%8B%88%E1%8B%B0%E1%8D%8A%E1%89%B5+%E1%8B%95%E1%8C%A3+%E1%8D%88%E1%8A%95%E1%89%B3+%7C++%E1%88%B0%E1%88%88%E1%88%9E%E1%8A%95+%E1%8A%AB%E1%88%B3+S2+EP8&lang=en&timestamp=1792067980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13874" alt="AI፣ ፈጠራ እና የኢትዮጵያ የወደፊት ዕጣ ፈንታ |  ሰለሞን ካሳ S2 EP8" title="AI፣ ፈጠራ እና የኢትዮጵያ የወደፊት ዕጣ ፈንታ |  ሰለሞን ካሳ S2 EP8">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zteHWsdTNDE&title=CEA+Nageswaran%2C+Raghuram+Rajan+%26+Anthropic+Co-Founder+Discuss+AI%2C+Jobs+Impact+%26+Doomsday+Prediction&lang=en&timestamp=1792240570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1338">
+          <img src="https://ytcards.demolab.com/?id=zteHWsdTNDE&title=CEA+Nageswaran%2C+Raghuram+Rajan+%26+Anthropic+Co-Founder+Discuss+AI%2C+Jobs+Impact+%26+Doomsday+Prediction&lang=en&timestamp=1792240570&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1338" alt="CEA Nageswaran, Raghuram Rajan & Anthropic Co-Founder Discuss AI, Jobs Impact & Doomsday Prediction" title="CEA Nageswaran, Raghuram Rajan & Anthropic Co-Founder Discuss AI, Jobs Impact & Doomsday Prediction">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fsvWurHpSYI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=The+Algorithms+Broke+Our+Brains%2C+Could+AI+Fix+Them%3F+With+Jim+VandeHei+of+Axios&lang=en&timestamp=1792096780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
-          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=The+Algorithms+Broke+Our+Brains%2C+Could+AI+Fix+Them%3F+With+Jim+VandeHei+of+Axios&lang=en&timestamp=1792096780&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="The Algorithms Broke Our Brains, Could AI Fix Them? With Jim VandeHei of Axios" title="The Algorithms Broke Our Brains, Could AI Fix Them? With Jim VandeHei of Axios">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792269370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792269370&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Is This The Biggest AI Discovery Of The Year?" title="Is This The Biggest AI Discovery Of The Year?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=p5r9pCqJ3Qo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-EgpdTFa31g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p5r9pCqJ3Qo&title=AI+Panic+Spreads+Worldwide&lang=en&timestamp=1792075180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853">
-          <img src="https://ytcards.demolab.com/?id=p5r9pCqJ3Qo&title=AI+Panic+Spreads+Worldwide&lang=en&timestamp=1792075180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=853" alt="AI Panic Spreads Worldwide" title="AI Panic Spreads Worldwide">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=I%E2%80%99m+Curious+About+AI+Society&lang=en&timestamp=1792258570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1537">
+          <img src="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=I%E2%80%99m+Curious+About+AI+Society&lang=en&timestamp=1792258570&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1537" alt="I’m Curious About AI Society" title="I’m Curious About AI Society">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nj0iaUDEO-0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NYs2rfmMtE0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792075180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
-          <img src="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792075180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="AI scheming is a real concern, risk mitigation expert warns" title="AI scheming is a real concern, risk mitigation expert warns">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NYs2rfmMtE0&title=20+AI+Concepts+Explained+in+30+Minutes+%7C+Artificial+Intelligence+Full+Course+%7C+Intellipaat&lang=en&timestamp=1792244170&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1393">
+          <img src="https://ytcards.demolab.com/?id=NYs2rfmMtE0&title=20+AI+Concepts+Explained+in+30+Minutes+%7C+Artificial+Intelligence+Full+Course+%7C+Intellipaat&lang=en&timestamp=1792244170&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1393" alt="20 AI Concepts Explained in 30 Minutes | Artificial Intelligence Full Course | Intellipaat" title="20 AI Concepts Explained in 30 Minutes | Artificial Intelligence Full Course | Intellipaat">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=T633Cf2mXEk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792082380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
-          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792082380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T633Cf2mXEk&title=AI+Expert+Roman+Yampolskiy+WARNS%3A+We%27re+Closer+to+Losing+Control+Than+You+Think&lang=en&timestamp=1792265770&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1837">
+          <img src="https://ytcards.demolab.com/?id=T633Cf2mXEk&title=AI+Expert+Roman+Yampolskiy+WARNS%3A+We%27re+Closer+to+Losing+Control+Than+You+Think&lang=en&timestamp=1792265770&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1837" alt="AI Expert Roman Yampolskiy WARNS: We're Closer to Losing Control Than You Think" title="AI Expert Roman Yampolskiy WARNS: We're Closer to Losing Control Than You Think">
         </picture>
       </a>
     </td>
