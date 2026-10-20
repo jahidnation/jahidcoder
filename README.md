@@ -125,56 +125,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d6SO10ihpL4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792247770&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
-          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792247770&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792429081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1224">
+          <img src="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792429081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1224" alt="A Potentially Historic AI Breakthrough" title="A Potentially Historic AI Breakthrough">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zteHWsdTNDE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=O4lrgCecT0Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zteHWsdTNDE&title=CEA+Nageswaran%2C+Raghuram+Rajan+%26+Anthropic+Co-Founder+Discuss+AI%2C+Jobs+Impact+%26+Doomsday+Prediction&lang=en&timestamp=1792240570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1338">
-          <img src="https://ytcards.demolab.com/?id=zteHWsdTNDE&title=CEA+Nageswaran%2C+Raghuram+Rajan+%26+Anthropic+Co-Founder+Discuss+AI%2C+Jobs+Impact+%26+Doomsday+Prediction&lang=en&timestamp=1792240570&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1338" alt="CEA Nageswaran, Raghuram Rajan & Anthropic Co-Founder Discuss AI, Jobs Impact & Doomsday Prediction" title="CEA Nageswaran, Raghuram Rajan & Anthropic Co-Founder Discuss AI, Jobs Impact & Doomsday Prediction">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792414681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=913">
+          <img src="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792414681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=913" alt="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!" title="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xw5-Wea7kY0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792269370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792269370&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Is This The Biggest AI Discovery Of The Year?" title="Is This The Biggest AI Discovery Of The Year?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xw5-Wea7kY0&title=The+Navy%27s+AI+Strategy+Comes+Down+to+One+Thing%3A+Speed&lang=en&timestamp=1792414681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=463">
+          <img src="https://ytcards.demolab.com/?id=xw5-Wea7kY0&title=The+Navy%27s+AI+Strategy+Comes+Down+to+One+Thing%3A+Speed&lang=en&timestamp=1792414681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=463" alt="The Navy's AI Strategy Comes Down to One Thing: Speed" title="The Navy's AI Strategy Comes Down to One Thing: Speed">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-EgpdTFa31g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Q-OCWTKUv1c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=I%E2%80%99m+Curious+About+AI+Society&lang=en&timestamp=1792258570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1537">
-          <img src="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=I%E2%80%99m+Curious+About+AI+Society&lang=en&timestamp=1792258570&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1537" alt="I’m Curious About AI Society" title="I’m Curious About AI Society">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792414681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
+          <img src="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792414681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race" title="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NYs2rfmMtE0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZqdzdKF1PsM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NYs2rfmMtE0&title=20+AI+Concepts+Explained+in+30+Minutes+%7C+Artificial+Intelligence+Full+Course+%7C+Intellipaat&lang=en&timestamp=1792244170&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1393">
-          <img src="https://ytcards.demolab.com/?id=NYs2rfmMtE0&title=20+AI+Concepts+Explained+in+30+Minutes+%7C+Artificial+Intelligence+Full+Course+%7C+Intellipaat&lang=en&timestamp=1792244170&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1393" alt="20 AI Concepts Explained in 30 Minutes | Artificial Intelligence Full Course | Intellipaat" title="20 AI Concepts Explained in 30 Minutes | Artificial Intelligence Full Course | Intellipaat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZqdzdKF1PsM&title=Elon+Musk+pledges+to+give+his+share+of+SpaceX+to+every+U.S.+kid&lang=en&timestamp=1792447081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
+          <img src="https://ytcards.demolab.com/?id=ZqdzdKF1PsM&title=Elon+Musk+pledges+to+give+his+share+of+SpaceX+to+every+U.S.+kid&lang=en&timestamp=1792447081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="Elon Musk pledges to give his share of SpaceX to every U.S. kid" title="Elon Musk pledges to give his share of SpaceX to every U.S. kid">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=T633Cf2mXEk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=p1Kk58nKr4Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T633Cf2mXEk&title=AI+Expert+Roman+Yampolskiy+WARNS%3A+We%27re+Closer+to+Losing+Control+Than+You+Think&lang=en&timestamp=1792265770&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1837">
-          <img src="https://ytcards.demolab.com/?id=T633Cf2mXEk&title=AI+Expert+Roman+Yampolskiy+WARNS%3A+We%27re+Closer+to+Losing+Control+Than+You+Think&lang=en&timestamp=1792265770&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1837" alt="AI Expert Roman Yampolskiy WARNS: We're Closer to Losing Control Than You Think" title="AI Expert Roman Yampolskiy WARNS: We're Closer to Losing Control Than You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p1Kk58nKr4Q&title=Artificial+Intelligence+in+Medicine&lang=en&timestamp=1792466461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1458">
+          <img src="https://ytcards.demolab.com/?id=p1Kk58nKr4Q&title=Artificial+Intelligence+in+Medicine&lang=en&timestamp=1792466461&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1458" alt="Artificial Intelligence in Medicine" title="Artificial Intelligence in Medicine">
         </picture>
       </a>
     </td>
