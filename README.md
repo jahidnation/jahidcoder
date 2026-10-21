@@ -126,56 +126,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d6SO10ihpL4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xjjkBczuYwM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792429081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1224">
-          <img src="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792429081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1224" alt="A Potentially Historic AI Breakthrough" title="A Potentially Historic AI Breakthrough">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xjjkBczuYwM&title=Artificial+Intelligence%3A+Complete+Path+to+2035&lang=en&timestamp=1792532835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8293">
+          <img src="https://ytcards.demolab.com/?id=xjjkBczuYwM&title=Artificial+Intelligence%3A+Complete+Path+to+2035&lang=en&timestamp=1792532835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8293" alt="Artificial Intelligence: Complete Path to 2035" title="Artificial Intelligence: Complete Path to 2035">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=O4lrgCecT0Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mp-oiA9CYsQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792414681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=913">
-          <img src="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792414681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=913" alt="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!" title="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mp-oiA9CYsQ&title=AI+is+Going+Faster+than+You+Think.&lang=en&timestamp=1792511235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=756">
+          <img src="https://ytcards.demolab.com/?id=mp-oiA9CYsQ&title=AI+is+Going+Faster+than+You+Think.&lang=en&timestamp=1792511235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=756" alt="AI is Going Faster than You Think." title="AI is Going Faster than You Think.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xw5-Wea7kY0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=a-_TTEdieaI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xw5-Wea7kY0&title=The+Navy%27s+AI+Strategy+Comes+Down+to+One+Thing%3A+Speed&lang=en&timestamp=1792414681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=463">
-          <img src="https://ytcards.demolab.com/?id=xw5-Wea7kY0&title=The+Navy%27s+AI+Strategy+Comes+Down+to+One+Thing%3A+Speed&lang=en&timestamp=1792414681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=463" alt="The Navy's AI Strategy Comes Down to One Thing: Speed" title="The Navy's AI Strategy Comes Down to One Thing: Speed">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-_TTEdieaI&title=Microsoft+AI%E2%80%99s+CEO+on+building+a+human-first+AI+future+%7C+Terms+of+Service&lang=en&timestamp=1792486035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1986">
+          <img src="https://ytcards.demolab.com/?id=a-_TTEdieaI&title=Microsoft+AI%E2%80%99s+CEO+on+building+a+human-first+AI+future+%7C+Terms+of+Service&lang=en&timestamp=1792486035&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1986" alt="Microsoft AI’s CEO on building a human-first AI future | Terms of Service" title="Microsoft AI’s CEO on building a human-first AI future | Terms of Service">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Q-OCWTKUv1c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8sZVFELAb4U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792414681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792414681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race" title="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792507635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=256">
+          <img src="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792507635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=256" alt="Why The Fears About Artificial Intelligence And Data Centers Are Overblown" title="Why The Fears About Artificial Intelligence And Data Centers Are Overblown">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZqdzdKF1PsM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VqFx18ts_Mc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZqdzdKF1PsM&title=Elon+Musk+pledges+to+give+his+share+of+SpaceX+to+every+U.S.+kid&lang=en&timestamp=1792447081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
-          <img src="https://ytcards.demolab.com/?id=ZqdzdKF1PsM&title=Elon+Musk+pledges+to+give+his+share+of+SpaceX+to+every+U.S.+kid&lang=en&timestamp=1792447081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="Elon Musk pledges to give his share of SpaceX to every U.S. kid" title="Elon Musk pledges to give his share of SpaceX to every U.S. kid">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VqFx18ts_Mc&title=Best+FREE+AI+Courses+With+Certificates+in+2026&lang=en&timestamp=1792500435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
+          <img src="https://ytcards.demolab.com/?id=VqFx18ts_Mc&title=Best+FREE+AI+Courses+With+Certificates+in+2026&lang=en&timestamp=1792500435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Best FREE AI Courses With Certificates in 2026" title="Best FREE AI Courses With Certificates in 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=p1Kk58nKr4Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fpIkuRr4MCQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p1Kk58nKr4Q&title=Artificial+Intelligence+in+Medicine&lang=en&timestamp=1792466461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1458">
-          <img src="https://ytcards.demolab.com/?id=p1Kk58nKr4Q&title=Artificial+Intelligence+in+Medicine&lang=en&timestamp=1792466461&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1458" alt="Artificial Intelligence in Medicine" title="Artificial Intelligence in Medicine">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fpIkuRr4MCQ&title=Where+Does+Intelligence+Live%3F+%7C+Michael+Levin+on+Evolution%2C+AI%2C+and+Platonic+Space&lang=en&timestamp=1792511235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5294">
+          <img src="https://ytcards.demolab.com/?id=fpIkuRr4MCQ&title=Where+Does+Intelligence+Live%3F+%7C+Michael+Levin+on+Evolution%2C+AI%2C+and+Platonic+Space&lang=en&timestamp=1792511235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5294" alt="Where Does Intelligence Live? | Michael Levin on Evolution, AI, and Platonic Space" title="Where Does Intelligence Live? | Michael Levin on Evolution, AI, and Platonic Space">
         </picture>
       </a>
     </td>
