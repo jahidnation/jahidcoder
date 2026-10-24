@@ -127,56 +127,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xjjkBczuYwM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fHY0sjAejcA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xjjkBczuYwM&title=Artificial+Intelligence%3A+Complete+Path+to+2035&lang=en&timestamp=1792532835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8293">
-          <img src="https://ytcards.demolab.com/?id=xjjkBczuYwM&title=Artificial+Intelligence%3A+Complete+Path+to+2035&lang=en&timestamp=1792532835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8293" alt="Artificial Intelligence: Complete Path to 2035" title="Artificial Intelligence: Complete Path to 2035">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fHY0sjAejcA&title=Who+is+local+AI+really+for%3F&lang=en&timestamp=1792773950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1940">
+          <img src="https://ytcards.demolab.com/?id=fHY0sjAejcA&title=Who+is+local+AI+really+for%3F&lang=en&timestamp=1792773950&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1940" alt="Who is local AI really for?" title="Who is local AI really for?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mp-oiA9CYsQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XW4D6NguJmA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mp-oiA9CYsQ&title=AI+is+Going+Faster+than+You+Think.&lang=en&timestamp=1792511235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=756">
-          <img src="https://ytcards.demolab.com/?id=mp-oiA9CYsQ&title=AI+is+Going+Faster+than+You+Think.&lang=en&timestamp=1792511235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=756" alt="AI is Going Faster than You Think." title="AI is Going Faster than You Think.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792766750&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
+          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792766750&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=a-_TTEdieaI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TfLcLI2NNuw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-_TTEdieaI&title=Microsoft+AI%E2%80%99s+CEO+on+building+a+human-first+AI+future+%7C+Terms+of+Service&lang=en&timestamp=1792486035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1986">
-          <img src="https://ytcards.demolab.com/?id=a-_TTEdieaI&title=Microsoft+AI%E2%80%99s+CEO+on+building+a+human-first+AI+future+%7C+Terms+of+Service&lang=en&timestamp=1792486035&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1986" alt="Microsoft AI’s CEO on building a human-first AI future | Terms of Service" title="Microsoft AI’s CEO on building a human-first AI future | Terms of Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792784750&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1123">
+          <img src="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792784750&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1123" alt="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser" title="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8sZVFELAb4U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792507635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=256">
-          <img src="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792507635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=256" alt="Why The Fears About Artificial Intelligence And Data Centers Are Overblown" title="Why The Fears About Artificial Intelligence And Data Centers Are Overblown">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792795550&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
+          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792795550&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VqFx18ts_Mc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LPlZXfs0-C0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VqFx18ts_Mc&title=Best+FREE+AI+Courses+With+Certificates+in+2026&lang=en&timestamp=1792500435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
-          <img src="https://ytcards.demolab.com/?id=VqFx18ts_Mc&title=Best+FREE+AI+Courses+With+Certificates+in+2026&lang=en&timestamp=1792500435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Best FREE AI Courses With Certificates in 2026" title="Best FREE AI Courses With Certificates in 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792777550&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1641">
+          <img src="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792777550&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1641" alt="Why is the UK at the forefront of AI-driven job cuts? | Inside Story" title="Why is the UK at the forefront of AI-driven job cuts? | Inside Story">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fpIkuRr4MCQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v3DXWJJVtjw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fpIkuRr4MCQ&title=Where+Does+Intelligence+Live%3F+%7C+Michael+Levin+on+Evolution%2C+AI%2C+and+Platonic+Space&lang=en&timestamp=1792511235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5294">
-          <img src="https://ytcards.demolab.com/?id=fpIkuRr4MCQ&title=Where+Does+Intelligence+Live%3F+%7C+Michael+Levin+on+Evolution%2C+AI%2C+and+Platonic+Space&lang=en&timestamp=1792511235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5294" alt="Where Does Intelligence Live? | Michael Levin on Evolution, AI, and Platonic Space" title="Where Does Intelligence Live? | Michael Levin on Evolution, AI, and Platonic Space">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v3DXWJJVtjw&title=AI+and+jobs%3A+Who+is+most+at+risk%3F&lang=en&timestamp=1792777550&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=267">
+          <img src="https://ytcards.demolab.com/?id=v3DXWJJVtjw&title=AI+and+jobs%3A+Who+is+most+at+risk%3F&lang=en&timestamp=1792777550&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=267" alt="AI and jobs: Who is most at risk?" title="AI and jobs: Who is most at risk?">
         </picture>
       </a>
     </td>
