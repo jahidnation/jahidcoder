@@ -128,56 +128,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fHY0sjAejcA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yNlc8nNrHh4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fHY0sjAejcA&title=Who+is+local+AI+really+for%3F&lang=en&timestamp=1792773950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1940">
-          <img src="https://ytcards.demolab.com/?id=fHY0sjAejcA&title=Who+is+local+AI+really+for%3F&lang=en&timestamp=1792773950&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1940" alt="Who is local AI really for?" title="Who is local AI really for?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792831458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
+          <img src="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792831458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="America's AI race: Are the risks being ignored? | DW News" title="America's AI race: Are the risks being ignored? | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XW4D6NguJmA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oMpCkdFn754" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792766750&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
-          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792766750&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792831458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792831458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="US banks scramble to control their AI agent activity" title="US banks scramble to control their AI agent activity">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TfLcLI2NNuw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YvIa_637gWg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792784750&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1123">
-          <img src="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792784750&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1123" alt="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser" title="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YvIa_637gWg&title=AI%E2%80%99s+promise+and+the+risk+to+HUMAN+FREEDOM&lang=en&timestamp=1792889058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=467">
+          <img src="https://ytcards.demolab.com/?id=YvIa_637gWg&title=AI%E2%80%99s+promise+and+the+risk+to+HUMAN+FREEDOM&lang=en&timestamp=1792889058&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=467" alt="AI’s promise and the risk to HUMAN FREEDOM" title="AI’s promise and the risk to HUMAN FREEDOM">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=R3nBcR_S7Vc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792795550&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
-          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792795550&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R3nBcR_S7Vc&title=Keep+Your+Head+Down.+The+Machines+Are+Coming&lang=en&timestamp=1792845858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=479">
+          <img src="https://ytcards.demolab.com/?id=R3nBcR_S7Vc&title=Keep+Your+Head+Down.+The+Machines+Are+Coming&lang=en&timestamp=1792845858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=479" alt="Keep Your Head Down. The Machines Are Coming" title="Keep Your Head Down. The Machines Are Coming">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LPlZXfs0-C0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Il4yxKE04gg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792777550&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1641">
-          <img src="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792777550&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1641" alt="Why is the UK at the forefront of AI-driven job cuts? | Inside Story" title="Why is the UK at the forefront of AI-driven job cuts? | Inside Story">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Il4yxKE04gg&title=What+Artificial+Intelligence+Does+When+No+One+Is+Watching+Is+Terrifying&lang=en&timestamp=1792885458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7742">
+          <img src="https://ytcards.demolab.com/?id=Il4yxKE04gg&title=What+Artificial+Intelligence+Does+When+No+One+Is+Watching+Is+Terrifying&lang=en&timestamp=1792885458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7742" alt="What Artificial Intelligence Does When No One Is Watching Is Terrifying" title="What Artificial Intelligence Does When No One Is Watching Is Terrifying">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v3DXWJJVtjw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=c2DE6znY7cg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v3DXWJJVtjw&title=AI+and+jobs%3A+Who+is+most+at+risk%3F&lang=en&timestamp=1792777550&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=267">
-          <img src="https://ytcards.demolab.com/?id=v3DXWJJVtjw&title=AI+and+jobs%3A+Who+is+most+at+risk%3F&lang=en&timestamp=1792777550&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=267" alt="AI and jobs: Who is most at risk?" title="AI and jobs: Who is most at risk?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c2DE6znY7cg&title=What+If+AI+Took+Over+The+World%3F&lang=en&timestamp=1792867458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=428">
+          <img src="https://ytcards.demolab.com/?id=c2DE6znY7cg&title=What+If+AI+Took+Over+The+World%3F&lang=en&timestamp=1792867458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=428" alt="What If AI Took Over The World?" title="What If AI Took Over The World?">
         </picture>
       </a>
     </td>
