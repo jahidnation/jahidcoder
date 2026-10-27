@@ -129,56 +129,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yNlc8nNrHh4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=U5zQzSqywEY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792831458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
-          <img src="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792831458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="America's AI race: Are the risks being ignored? | DW News" title="America's AI race: Are the risks being ignored? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793027432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42261">
+          <img src="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793027432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42261" alt="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course" title="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oMpCkdFn754" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W3Zn_sjdHxM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792831458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792831458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="US banks scramble to control their AI agent activity" title="US banks scramble to control their AI agent activity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Who+gets+to+shape+the+future+of+AI%3F+%7C+The+Gray+Area&lang=en&timestamp=1793016632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
+          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Who+gets+to+shape+the+future+of+AI%3F+%7C+The+Gray+Area&lang=en&timestamp=1793016632&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Who gets to shape the future of AI? | The Gray Area" title="Who gets to shape the future of AI? | The Gray Area">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YvIa_637gWg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lbtUnjWh1_c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YvIa_637gWg&title=AI%E2%80%99s+promise+and+the+risk+to+HUMAN+FREEDOM&lang=en&timestamp=1792889058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=467">
-          <img src="https://ytcards.demolab.com/?id=YvIa_637gWg&title=AI%E2%80%99s+promise+and+the+risk+to+HUMAN+FREEDOM&lang=en&timestamp=1792889058&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=467" alt="AI’s promise and the risk to HUMAN FREEDOM" title="AI’s promise and the risk to HUMAN FREEDOM">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+Asked+AI+to+Hack+My+Camera%3A+Here%E2%80%99s+What+Happened&lang=en&timestamp=1793049032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1218">
+          <img src="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+Asked+AI+to+Hack+My+Camera%3A+Here%E2%80%99s+What+Happened&lang=en&timestamp=1793049032&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1218" alt="I Asked AI to Hack My Camera: Here’s What Happened" title="I Asked AI to Hack My Camera: Here’s What Happened">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=R3nBcR_S7Vc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m2M1xdb6W38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R3nBcR_S7Vc&title=Keep+Your+Head+Down.+The+Machines+Are+Coming&lang=en&timestamp=1792845858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=479">
-          <img src="https://ytcards.demolab.com/?id=R3nBcR_S7Vc&title=Keep+Your+Head+Down.+The+Machines+Are+Coming&lang=en&timestamp=1792845858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=479" alt="Keep Your Head Down. The Machines Are Coming" title="Keep Your Head Down. The Machines Are Coming">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m2M1xdb6W38&title=Which+AI+Role+Should+You+Prepare+For%3F&lang=en&timestamp=1793041832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=547">
+          <img src="https://ytcards.demolab.com/?id=m2M1xdb6W38&title=Which+AI+Role+Should+You+Prepare+For%3F&lang=en&timestamp=1793041832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=547" alt="Which AI Role Should You Prepare For?" title="Which AI Role Should You Prepare For?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Il4yxKE04gg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IJrxpS0Vpxg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Il4yxKE04gg&title=What+Artificial+Intelligence+Does+When+No+One+Is+Watching+Is+Terrifying&lang=en&timestamp=1792885458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7742">
-          <img src="https://ytcards.demolab.com/?id=Il4yxKE04gg&title=What+Artificial+Intelligence+Does+When+No+One+Is+Watching+Is+Terrifying&lang=en&timestamp=1792885458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7742" alt="What Artificial Intelligence Does When No One Is Watching Is Terrifying" title="What Artificial Intelligence Does When No One Is Watching Is Terrifying">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793045432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=199">
+          <img src="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793045432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=199" alt="Microsoft Offers Buyouts To 25% Of Company" title="Microsoft Offers Buyouts To 25% Of Company">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=c2DE6znY7cg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v5d8nwgiSYI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c2DE6znY7cg&title=What+If+AI+Took+Over+The+World%3F&lang=en&timestamp=1792867458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=428">
-          <img src="https://ytcards.demolab.com/?id=c2DE6znY7cg&title=What+If+AI+Took+Over+The+World%3F&lang=en&timestamp=1792867458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=428" alt="What If AI Took Over The World?" title="What If AI Took Over The World?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5d8nwgiSYI&title=Patent+Strategy+in+the+Age+of+AI&lang=en&timestamp=1793041832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2381">
+          <img src="https://ytcards.demolab.com/?id=v5d8nwgiSYI&title=Patent+Strategy+in+the+Age+of+AI&lang=en&timestamp=1793041832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2381" alt="Patent Strategy in the Age of AI" title="Patent Strategy in the Age of AI">
         </picture>
       </a>
     </td>
