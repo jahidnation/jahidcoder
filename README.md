@@ -130,56 +130,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=U5zQzSqywEY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ojOdB-7Dbdg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793027432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42261">
-          <img src="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793027432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42261" alt="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course" title="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ojOdB-7Dbdg&title=Artificial+intelligence+and+psychotherapy+%7C+DW+Documentary&lang=en&timestamp=1793296338&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2612">
+          <img src="https://ytcards.demolab.com/?id=ojOdB-7Dbdg&title=Artificial+intelligence+and+psychotherapy+%7C+DW+Documentary&lang=en&timestamp=1793296338&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2612" alt="Artificial intelligence and psychotherapy | DW Documentary" title="Artificial intelligence and psychotherapy | DW Documentary">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W3Zn_sjdHxM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=y0EnvtctqQM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Who+gets+to+shape+the+future+of+AI%3F+%7C+The+Gray+Area&lang=en&timestamp=1793016632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
-          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Who+gets+to+shape+the+future+of+AI%3F+%7C+The+Gray+Area&lang=en&timestamp=1793016632&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Who gets to shape the future of AI? | The Gray Area" title="Who gets to shape the future of AI? | The Gray Area">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y0EnvtctqQM&title=Over+130%2C000+Tech+Jobs+Lost+In+2026%2C+But+AI+Isn%27t+The+Only+Reason+%7C+Here%27s+What%27s+Really+Happening&lang=en&timestamp=1793274738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=236">
+          <img src="https://ytcards.demolab.com/?id=y0EnvtctqQM&title=Over+130%2C000+Tech+Jobs+Lost+In+2026%2C+But+AI+Isn%27t+The+Only+Reason+%7C+Here%27s+What%27s+Really+Happening&lang=en&timestamp=1793274738&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=236" alt="Over 130,000 Tech Jobs Lost In 2026, But AI Isn't The Only Reason | Here's What's Really Happening" title="Over 130,000 Tech Jobs Lost In 2026, But AI Isn't The Only Reason | Here's What's Really Happening">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lbtUnjWh1_c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=grhoUWSd4aA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+Asked+AI+to+Hack+My+Camera%3A+Here%E2%80%99s+What+Happened&lang=en&timestamp=1793049032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1218">
-          <img src="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+Asked+AI+to+Hack+My+Camera%3A+Here%E2%80%99s+What+Happened&lang=en&timestamp=1793049032&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1218" alt="I Asked AI to Hack My Camera: Here’s What Happened" title="I Asked AI to Hack My Camera: Here’s What Happened">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=grhoUWSd4aA&title=How+USCIS%2C+CBP%2C+ICE+Use+AI%2C+Super+Intelligence%28SI%29+on+Your+US+Visa%2C+I-94%2C+and+USCIS+Applications&lang=en&timestamp=1793292738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1119">
+          <img src="https://ytcards.demolab.com/?id=grhoUWSd4aA&title=How+USCIS%2C+CBP%2C+ICE+Use+AI%2C+Super+Intelligence%28SI%29+on+Your+US+Visa%2C+I-94%2C+and+USCIS+Applications&lang=en&timestamp=1793292738&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1119" alt="How USCIS, CBP, ICE Use AI, Super Intelligence(SI) on Your US Visa, I-94, and USCIS Applications" title="How USCIS, CBP, ICE Use AI, Super Intelligence(SI) on Your US Visa, I-94, and USCIS Applications">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m2M1xdb6W38" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XhuTl1n-TnU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m2M1xdb6W38&title=Which+AI+Role+Should+You+Prepare+For%3F&lang=en&timestamp=1793041832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=547">
-          <img src="https://ytcards.demolab.com/?id=m2M1xdb6W38&title=Which+AI+Role+Should+You+Prepare+For%3F&lang=en&timestamp=1793041832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=547" alt="Which AI Role Should You Prepare For?" title="Which AI Role Should You Prepare For?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XhuTl1n-TnU&title=Where+Is+AI+Actually+Going%3F+%F0%9F%9A%80+The+Future+of+Artificial+Intelligence+%7C+Day+30+Series+%7C+%40CodlerCore%E2%80%8B&lang=en&timestamp=1793333718&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=311">
+          <img src="https://ytcards.demolab.com/?id=XhuTl1n-TnU&title=Where+Is+AI+Actually+Going%3F+%F0%9F%9A%80+The+Future+of+Artificial+Intelligence+%7C+Day+30+Series+%7C+%40CodlerCore%E2%80%8B&lang=en&timestamp=1793333718&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=311" alt="Where Is AI Actually Going? 🚀 The Future of Artificial Intelligence | Day 30 Series | @CodlerCore​" title="Where Is AI Actually Going? 🚀 The Future of Artificial Intelligence | Day 30 Series | @CodlerCore​">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IJrxpS0Vpxg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5jYD7ZRMJ5I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793045432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=199">
-          <img src="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793045432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=199" alt="Microsoft Offers Buyouts To 25% Of Company" title="Microsoft Offers Buyouts To 25% Of Company">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5jYD7ZRMJ5I&title=Microsoft%27s+60%2C000+Voluntary+Exit%3A+What+They+Aren%27t+Telling+You&lang=en&timestamp=1793289138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904">
+          <img src="https://ytcards.demolab.com/?id=5jYD7ZRMJ5I&title=Microsoft%27s+60%2C000+Voluntary+Exit%3A+What+They+Aren%27t+Telling+You&lang=en&timestamp=1793289138&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=904" alt="Microsoft's 60,000 Voluntary Exit: What They Aren't Telling You" title="Microsoft's 60,000 Voluntary Exit: What They Aren't Telling You">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v5d8nwgiSYI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=brdNSw8IIkU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5d8nwgiSYI&title=Patent+Strategy+in+the+Age+of+AI&lang=en&timestamp=1793041832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2381">
-          <img src="https://ytcards.demolab.com/?id=v5d8nwgiSYI&title=Patent+Strategy+in+the+Age+of+AI&lang=en&timestamp=1793041832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2381" alt="Patent Strategy in the Age of AI" title="Patent Strategy in the Age of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=brdNSw8IIkU&title=Artificial+Intelligence+Will+Make+a+Broke+Generation+of+Investors.&lang=en&timestamp=1793274738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1121">
+          <img src="https://ytcards.demolab.com/?id=brdNSw8IIkU&title=Artificial+Intelligence+Will+Make+a+Broke+Generation+of+Investors.&lang=en&timestamp=1793274738&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1121" alt="Artificial Intelligence Will Make a Broke Generation of Investors." title="Artificial Intelligence Will Make a Broke Generation of Investors.">
         </picture>
       </a>
     </td>
