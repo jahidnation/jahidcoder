@@ -132,56 +132,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=A-dxxTV1b_o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UIYoKcIvSVo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793378285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
-          <img src="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793378285&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="Investors in AI race spooked after Google value drops $500bn | BBC News" title="Investors in AI race spooked after Google value drops $500bn | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793465858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1827">
+          <img src="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793465858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1827" alt="AI News Is Getting Absolutely RIDICULOUS" title="AI News Is Getting Absolutely RIDICULOUS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hIIzIh4l208" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8FN2wkLap-Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793356685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929">
-          <img src="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793356685&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=929" alt="AI CRASH SPREADS WORLDWIDE" title="AI CRASH SPREADS WORLDWIDE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Hacking+Bank+Accounts+and+Sparking+Revolutions%3A+The+AI+Crisis+No+One+Is+Noticing%E2%80%A6&lang=en&timestamp=1793469458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5262">
+          <img src="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Hacking+Bank+Accounts+and+Sparking+Revolutions%3A+The+AI+Crisis+No+One+Is+Noticing%E2%80%A6&lang=en&timestamp=1793469458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5262" alt="Hacking Bank Accounts and Sparking Revolutions: The AI Crisis No One Is Noticing…" title="Hacking Bank Accounts and Sparking Revolutions: The AI Crisis No One Is Noticing…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x09DdM19xhk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KjuAcZf8NC0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x09DdM19xhk&title=AI+Agents%3A+The+Next+BIG+Revolution+in+Artificial+Intelligence%21&lang=en&timestamp=1793367485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=668">
-          <img src="https://ytcards.demolab.com/?id=x09DdM19xhk&title=AI+Agents%3A+The+Next+BIG+Revolution+in+Artificial+Intelligence%21&lang=en&timestamp=1793367485&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=668" alt="AI Agents: The Next BIG Revolution in Artificial Intelligence!" title="AI Agents: The Next BIG Revolution in Artificial Intelligence!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1380">
+          <img src="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1380" alt="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone" title="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pSy5aupBEjU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lHJxUsdupho" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pSy5aupBEjU&title=07+%7C+AI+%26+Innovation+%7C+Ethics+%26+The+Future+of+Artificial+Intelligence&lang=en&timestamp=1793374685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2948">
-          <img src="https://ytcards.demolab.com/?id=pSy5aupBEjU&title=07+%7C+AI+%26+Innovation+%7C+Ethics+%26+The+Future+of+Artificial+Intelligence&lang=en&timestamp=1793374685&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2948" alt="07 | AI & Innovation | Ethics & The Future of Artificial Intelligence" title="07 | AI & Innovation | Ethics & The Future of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793437058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
+          <img src="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793437058&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="How the Media Manufactures AI Belief" title="How the Media Manufactures AI Belief">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Vp8kDyreDGI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Vzh4CmJavxE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793374685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
-          <img src="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793374685&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat" title="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=How+Artificial+Intelligence+Will+Change+Society+%7C+The+Age+of+AI&lang=en&timestamp=1793447858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
+          <img src="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=How+Artificial+Intelligence+Will+Change+Society+%7C+The+Age+of+AI&lang=en&timestamp=1793447858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="How Artificial Intelligence Will Change Society | The Age of AI" title="How Artificial Intelligence Will Change Society | The Age of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HwawgVyCR_0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wr4_ZMv52ZM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HwawgVyCR_0&title=05+%7C+AI+%26+Democracy+%7C+Ethics+%26+The+Future+of+Artificial+Intelligence&lang=en&timestamp=1793374685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3026">
-          <img src="https://ytcards.demolab.com/?id=HwawgVyCR_0&title=05+%7C+AI+%26+Democracy+%7C+Ethics+%26+The+Future+of+Artificial+Intelligence&lang=en&timestamp=1793374685&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3026" alt="05 | AI & Democracy | Ethics & The Future of Artificial Intelligence" title="05 | AI & Democracy | Ethics & The Future of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wr4_ZMv52ZM&title=What+Happened+to+Real+People+on+YouTube&lang=en&timestamp=1793483858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=693">
+          <img src="https://ytcards.demolab.com/?id=wr4_ZMv52ZM&title=What+Happened+to+Real+People+on+YouTube&lang=en&timestamp=1793483858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=693" alt="What Happened to Real People on YouTube" title="What Happened to Real People on YouTube">
         </picture>
       </a>
     </td>
