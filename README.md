@@ -133,56 +133,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UIYoKcIvSVo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8f5uFn9bOwY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793465858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1827">
-          <img src="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793465858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1827" alt="AI News Is Getting Absolutely RIDICULOUS" title="AI News Is Getting Absolutely RIDICULOUS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8f5uFn9bOwY&title=Fareed+unpacks+AI%2C+the+Iran+war%2C+Trump+%26+more+%7C+Fareed%27s+Take+roundup&lang=en&timestamp=1793584723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1472">
+          <img src="https://ytcards.demolab.com/?id=8f5uFn9bOwY&title=Fareed+unpacks+AI%2C+the+Iran+war%2C+Trump+%26+more+%7C+Fareed%27s+Take+roundup&lang=en&timestamp=1793584723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1472" alt="Fareed unpacks AI, the Iran war, Trump & more | Fareed's Take roundup" title="Fareed unpacks AI, the Iran war, Trump & more | Fareed's Take roundup">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8FN2wkLap-Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vvbVlI957Qg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Hacking+Bank+Accounts+and+Sparking+Revolutions%3A+The+AI+Crisis+No+One+Is+Noticing%E2%80%A6&lang=en&timestamp=1793469458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5262">
-          <img src="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Hacking+Bank+Accounts+and+Sparking+Revolutions%3A+The+AI+Crisis+No+One+Is+Noticing%E2%80%A6&lang=en&timestamp=1793469458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5262" alt="Hacking Bank Accounts and Sparking Revolutions: The AI Crisis No One Is Noticing…" title="Hacking Bank Accounts and Sparking Revolutions: The AI Crisis No One Is Noticing…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793537923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
+          <img src="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793537923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms" title="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KjuAcZf8NC0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pqUe2En041E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1380">
-          <img src="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1380" alt="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone" title="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pqUe2En041E&title=AI-Powered+Business+Analytics+with+Excel+Full+Course+2026+%7C+Master+Excel+%26+AI+Skills+%7C+Simplilearn&lang=en&timestamp=1793552323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16289">
+          <img src="https://ytcards.demolab.com/?id=pqUe2En041E&title=AI-Powered+Business+Analytics+with+Excel+Full+Course+2026+%7C+Master+Excel+%26+AI+Skills+%7C+Simplilearn&lang=en&timestamp=1793552323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16289" alt="AI-Powered Business Analytics with Excel Full Course 2026 | Master Excel & AI Skills | Simplilearn" title="AI-Powered Business Analytics with Excel Full Course 2026 | Master Excel & AI Skills | Simplilearn">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lHJxUsdupho" target="_blank">
+      <a href="https://www.youtube.com/watch?v=41dnLNlhIV0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793437058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
-          <img src="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793437058&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="How the Media Manufactures AI Belief" title="How the Media Manufactures AI Belief">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=41dnLNlhIV0&title=Microsoft+Offers+Buyouts+to+60%2C000+Workers+as+It+Bets+%24175B+on+AI&lang=en&timestamp=1793552323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
+          <img src="https://ytcards.demolab.com/?id=41dnLNlhIV0&title=Microsoft+Offers+Buyouts+to+60%2C000+Workers+as+It+Bets+%24175B+on+AI&lang=en&timestamp=1793552323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Microsoft Offers Buyouts to 60,000 Workers as It Bets $175B on AI" title="Microsoft Offers Buyouts to 60,000 Workers as It Bets $175B on AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Vzh4CmJavxE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NE02_gBvTAI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=How+Artificial+Intelligence+Will+Change+Society+%7C+The+Age+of+AI&lang=en&timestamp=1793447858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
-          <img src="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=How+Artificial+Intelligence+Will+Change+Society+%7C+The+Age+of+AI&lang=en&timestamp=1793447858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="How Artificial Intelligence Will Change Society | The Age of AI" title="How Artificial Intelligence Will Change Society | The Age of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NE02_gBvTAI&title=AI+and+the+2026+US+Midterms%3A+The+New+Political+Battleground&lang=en&timestamp=1793537923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=618">
+          <img src="https://ytcards.demolab.com/?id=NE02_gBvTAI&title=AI+and+the+2026+US+Midterms%3A+The+New+Political+Battleground&lang=en&timestamp=1793537923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=618" alt="AI and the 2026 US Midterms: The New Political Battleground" title="AI and the 2026 US Midterms: The New Political Battleground">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wr4_ZMv52ZM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XMiFWBoDxRs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wr4_ZMv52ZM&title=What+Happened+to+Real+People+on+YouTube&lang=en&timestamp=1793483858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=693">
-          <img src="https://ytcards.demolab.com/?id=wr4_ZMv52ZM&title=What+Happened+to+Real+People+on+YouTube&lang=en&timestamp=1793483858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=693" alt="What Happened to Real People on YouTube" title="What Happened to Real People on YouTube">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XMiFWBoDxRs&title=Forget+AI%3A+Trump+Is+Promoting+%E2%80%98Super+Intelligence%E2%80%99&lang=en&timestamp=1793577523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
+          <img src="https://ytcards.demolab.com/?id=XMiFWBoDxRs&title=Forget+AI%3A+Trump+Is+Promoting+%E2%80%98Super+Intelligence%E2%80%99&lang=en&timestamp=1793577523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="Forget AI: Trump Is Promoting ‘Super Intelligence’" title="Forget AI: Trump Is Promoting ‘Super Intelligence’">
         </picture>
       </a>
     </td>
