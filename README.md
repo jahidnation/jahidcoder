@@ -135,56 +135,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zYVIXCC-dR0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9FjbFGYKxAc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793634430&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=874">
-          <img src="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793634430&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=874" alt="5 AI questions everyone should be asking" title="5 AI questions everyone should be asking">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Making+Discoveries+That+Shouldn%27t+Be+Possible&lang=en&timestamp=1793697751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Making+Discoveries+That+Shouldn%27t+Be+Possible&lang=en&timestamp=1793697751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Making Discoveries That Shouldn't Be Possible" title="AI Is Making Discoveries That Shouldn't Be Possible">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=axQCMW4ouNM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zXekn7txdLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=axQCMW4ouNM&title=Top+Neuroscientist%3A+%22We+Have+Paused+Human+Development%22+%7C+Karl+Friston&lang=en&timestamp=1793648830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5347">
-          <img src="https://ytcards.demolab.com/?id=axQCMW4ouNM&title=Top+Neuroscientist%3A+%22We+Have+Paused+Human+Development%22+%7C+Karl+Friston&lang=en&timestamp=1793648830&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5347" alt="Top Neuroscientist: &quot;We Have Paused Human Development&quot; | Karl Friston" title="Top Neuroscientist: &quot;We Have Paused Human Development&quot; | Karl Friston">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793701351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
+          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793701351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ag3qNV9IcsM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vKzPdFRBPWc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ag3qNV9IcsM&title=Are+we+seeing+another+dot-com+bubble%3F+%7C+Artificial+intelligence&lang=en&timestamp=1793681410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=128">
-          <img src="https://ytcards.demolab.com/?id=ag3qNV9IcsM&title=Are+we+seeing+another+dot-com+bubble%3F+%7C+Artificial+intelligence&lang=en&timestamp=1793681410&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=128" alt="Are we seeing another dot-com bubble? | Artificial intelligence" title="Are we seeing another dot-com bubble? | Artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793730151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=883">
+          <img src="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793730151&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=883" alt="AI Losses Explode as Anthropic Reveals the Cost of the Boom" title="AI Losses Explode as Anthropic Reveals the Cost of the Boom">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yzXLrX-EA9o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yzXLrX-EA9o&title=It+Begins%3A+AI+Has+Started+Improving+Itself.&lang=en&timestamp=1793620030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=673">
-          <img src="https://ytcards.demolab.com/?id=yzXLrX-EA9o&title=It+Begins%3A+AI+Has+Started+Improving+Itself.&lang=en&timestamp=1793620030&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=673" alt="It Begins: AI Has Started Improving Itself." title="It Begins: AI Has Started Improving Itself.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793701351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
+          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793701351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=N3L_uVuyaHM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kRLo7_djfqw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N3L_uVuyaHM&title=US+NEWS+%7C+AI+vs+Pollsters%3A+Can+Artificial+Intelligence+Predict+The+Midterm+Results%3F+%7C+Trump+%7C+N18G&lang=en&timestamp=1793681230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5095">
-          <img src="https://ytcards.demolab.com/?id=N3L_uVuyaHM&title=US+NEWS+%7C+AI+vs+Pollsters%3A+Can+Artificial+Intelligence+Predict+The+Midterm+Results%3F+%7C+Trump+%7C+N18G&lang=en&timestamp=1793681230&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5095" alt="US NEWS | AI vs Pollsters: Can Artificial Intelligence Predict The Midterm Results? | Trump | N18G" title="US NEWS | AI vs Pollsters: Can Artificial Intelligence Predict The Midterm Results? | Trump | N18G">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kRLo7_djfqw&title=SOLIDWORKS+2027+First+Look%3A+AI+Workflows+%26+LEO+Virtual+Companion&lang=en&timestamp=1793719351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=269">
+          <img src="https://ytcards.demolab.com/?id=kRLo7_djfqw&title=SOLIDWORKS+2027+First+Look%3A+AI+Workflows+%26+LEO+Virtual+Companion&lang=en&timestamp=1793719351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=269" alt="SOLIDWORKS 2027 First Look: AI Workflows & LEO Virtual Companion" title="SOLIDWORKS 2027 First Look: AI Workflows & LEO Virtual Companion">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YIUPaYpXk_E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Wf9p9OzW-no" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YIUPaYpXk_E&title=As+Backlash+Against+AI+Grows%2C+Sam+Altman+promotes+AI+As+%27Absolute+Necessity%27+At+ADIPEC+In+Abu+Dhabi&lang=en&timestamp=1793627230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1013">
-          <img src="https://ytcards.demolab.com/?id=YIUPaYpXk_E&title=As+Backlash+Against+AI+Grows%2C+Sam+Altman+promotes+AI+As+%27Absolute+Necessity%27+At+ADIPEC+In+Abu+Dhabi&lang=en&timestamp=1793627230&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1013" alt="As Backlash Against AI Grows, Sam Altman promotes AI As 'Absolute Necessity' At ADIPEC In Abu Dhabi" title="As Backlash Against AI Grows, Sam Altman promotes AI As 'Absolute Necessity' At ADIPEC In Abu Dhabi">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wf9p9OzW-no&title=Artificial+Intelligence+And+the+Future+of+Humanity%3A+Who+is+Really+in+Control%3F&lang=en&timestamp=1793715751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=412">
+          <img src="https://ytcards.demolab.com/?id=Wf9p9OzW-no&title=Artificial+Intelligence+And+the+Future+of+Humanity%3A+Who+is+Really+in+Control%3F&lang=en&timestamp=1793715751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=412" alt="Artificial Intelligence And the Future of Humanity: Who is Really in Control?" title="Artificial Intelligence And the Future of Humanity: Who is Really in Control?">
         </picture>
       </a>
     </td>
