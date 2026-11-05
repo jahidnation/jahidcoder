@@ -136,56 +136,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9FjbFGYKxAc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qRvrxk7FPaY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Making+Discoveries+That+Shouldn%27t+Be+Possible&lang=en&timestamp=1793697751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Making+Discoveries+That+Shouldn%27t+Be+Possible&lang=en&timestamp=1793697751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Making Discoveries That Shouldn't Be Possible" title="AI Is Making Discoveries That Shouldn't Be Possible">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qRvrxk7FPaY&title=Orlando+Bravo+on+regulating+AI+models%3A+%27Let+competition+run+free%27&lang=en&timestamp=1793817672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=192">
+          <img src="https://ytcards.demolab.com/?id=qRvrxk7FPaY&title=Orlando+Bravo+on+regulating+AI+models%3A+%27Let+competition+run+free%27&lang=en&timestamp=1793817672&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=192" alt="Orlando Bravo on regulating AI models: 'Let competition run free'" title="Orlando Bravo on regulating AI models: 'Let competition run free'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zXekn7txdLk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mt9GH_rsXnw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793701351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
-          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793701351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mt9GH_rsXnw&title=AI+Cost+Shock+%E2%80%94+Apple+Sounds+the+Alarm&lang=en&timestamp=1793814072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=891">
+          <img src="https://ytcards.demolab.com/?id=mt9GH_rsXnw&title=AI+Cost+Shock+%E2%80%94+Apple+Sounds+the+Alarm&lang=en&timestamp=1793814072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=891" alt="AI Cost Shock — Apple Sounds the Alarm" title="AI Cost Shock — Apple Sounds the Alarm">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vKzPdFRBPWc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Fw1214bh3ac" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793730151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=883">
-          <img src="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793730151&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=883" alt="AI Losses Explode as Anthropic Reveals the Cost of the Boom" title="AI Losses Explode as Anthropic Reveals the Cost of the Boom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Fw1214bh3ac&title=Google+will+cut+off+search+access+for+students+at+schools+that+reject+AI+tools&lang=en&timestamp=1793810472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
+          <img src="https://ytcards.demolab.com/?id=Fw1214bh3ac&title=Google+will+cut+off+search+access+for+students+at+schools+that+reject+AI+tools&lang=en&timestamp=1793810472&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34" alt="Google will cut off search access for students at schools that reject AI tools" title="Google will cut off search access for students at schools that reject AI tools">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KNrnpqPknvI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793701351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
-          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793701351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793796072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
+          <img src="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793796072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Episode #144: The Real AI Takeover Isn’t What You Think" title="Episode #144: The Real AI Takeover Isn’t What You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kRLo7_djfqw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7_BkuF2yu2A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kRLo7_djfqw&title=SOLIDWORKS+2027+First+Look%3A+AI+Workflows+%26+LEO+Virtual+Companion&lang=en&timestamp=1793719351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=269">
-          <img src="https://ytcards.demolab.com/?id=kRLo7_djfqw&title=SOLIDWORKS+2027+First+Look%3A+AI+Workflows+%26+LEO+Virtual+Companion&lang=en&timestamp=1793719351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=269" alt="SOLIDWORKS 2027 First Look: AI Workflows & LEO Virtual Companion" title="SOLIDWORKS 2027 First Look: AI Workflows & LEO Virtual Companion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7_BkuF2yu2A&title=Australian+Schools+To+Restrict+Use+Of+Artificial+Intelligence+In+The+Classroom+%7C+10+News&lang=en&timestamp=1793850072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=95">
+          <img src="https://ytcards.demolab.com/?id=7_BkuF2yu2A&title=Australian+Schools+To+Restrict+Use+Of+Artificial+Intelligence+In+The+Classroom+%7C+10+News&lang=en&timestamp=1793850072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=95" alt="Australian Schools To Restrict Use Of Artificial Intelligence In The Classroom | 10 News" title="Australian Schools To Restrict Use Of Artificial Intelligence In The Classroom | 10 News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Wf9p9OzW-no" target="_blank">
+      <a href="https://www.youtube.com/watch?v=55ttHgpHYCM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wf9p9OzW-no&title=Artificial+Intelligence+And+the+Future+of+Humanity%3A+Who+is+Really+in+Control%3F&lang=en&timestamp=1793715751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=412">
-          <img src="https://ytcards.demolab.com/?id=Wf9p9OzW-no&title=Artificial+Intelligence+And+the+Future+of+Humanity%3A+Who+is+Really+in+Control%3F&lang=en&timestamp=1793715751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=412" alt="Artificial Intelligence And the Future of Humanity: Who is Really in Control?" title="Artificial Intelligence And the Future of Humanity: Who is Really in Control?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=55ttHgpHYCM&title=Will+Artificial+Intelligence+Destroy+Creativity+Or+Redefine+It%3F+%7C%C2%A0AI+Decoded+%7C%C2%A0Documentary&lang=en&timestamp=1793803272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3771">
+          <img src="https://ytcards.demolab.com/?id=55ttHgpHYCM&title=Will+Artificial+Intelligence+Destroy+Creativity+Or+Redefine+It%3F+%7C%C2%A0AI+Decoded+%7C%C2%A0Documentary&lang=en&timestamp=1793803272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3771" alt="Will Artificial Intelligence Destroy Creativity Or Redefine It? | AI Decoded | Documentary" title="Will Artificial Intelligence Destroy Creativity Or Redefine It? | AI Decoded | Documentary">
         </picture>
       </a>
     </td>
