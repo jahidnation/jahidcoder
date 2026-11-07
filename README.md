@@ -137,56 +137,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qRvrxk7FPaY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=R-OeFlyzveI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qRvrxk7FPaY&title=Orlando+Bravo+on+regulating+AI+models%3A+%27Let+competition+run+free%27&lang=en&timestamp=1793817672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=192">
-          <img src="https://ytcards.demolab.com/?id=qRvrxk7FPaY&title=Orlando+Bravo+on+regulating+AI+models%3A+%27Let+competition+run+free%27&lang=en&timestamp=1793817672&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=192" alt="Orlando Bravo on regulating AI models: 'Let competition run free'" title="Orlando Bravo on regulating AI models: 'Let competition run free'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793956062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793956062&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mt9GH_rsXnw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=of-WwgsQO3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mt9GH_rsXnw&title=AI+Cost+Shock+%E2%80%94+Apple+Sounds+the+Alarm&lang=en&timestamp=1793814072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=891">
-          <img src="https://ytcards.demolab.com/?id=mt9GH_rsXnw&title=AI+Cost+Shock+%E2%80%94+Apple+Sounds+the+Alarm&lang=en&timestamp=1793814072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=891" alt="AI Cost Shock — Apple Sounds the Alarm" title="AI Cost Shock — Apple Sounds the Alarm">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793995662&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=543">
+          <img src="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793995662&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=543" alt="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast" title="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Fw1214bh3ac" target="_blank">
+      <a href="https://www.youtube.com/watch?v=r-SstgFlsuI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Fw1214bh3ac&title=Google+will+cut+off+search+access+for+students+at+schools+that+reject+AI+tools&lang=en&timestamp=1793810472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
-          <img src="https://ytcards.demolab.com/?id=Fw1214bh3ac&title=Google+will+cut+off+search+access+for+students+at+schools+that+reject+AI+tools&lang=en&timestamp=1793810472&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34" alt="Google will cut off search access for students at schools that reject AI tools" title="Google will cut off search access for students at schools that reject AI tools">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794013662&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1139">
+          <img src="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794013662&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1139" alt="Nvidia Just Showed Us Where AI Money Is Going Next" title="Nvidia Just Showed Us Where AI Money Is Going Next">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KNrnpqPknvI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Itr3Ld5c9yI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793796072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
-          <img src="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793796072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Episode #144: The Real AI Takeover Isn’t What You Think" title="Episode #144: The Real AI Takeover Isn’t What You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793999262&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
+          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793999262&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="AI bubble fears prompt dramatic sell-off" title="AI bubble fears prompt dramatic sell-off">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7_BkuF2yu2A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xq7rPlcO0pA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7_BkuF2yu2A&title=Australian+Schools+To+Restrict+Use+Of+Artificial+Intelligence+In+The+Classroom+%7C+10+News&lang=en&timestamp=1793850072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=95">
-          <img src="https://ytcards.demolab.com/?id=7_BkuF2yu2A&title=Australian+Schools+To+Restrict+Use+Of+Artificial+Intelligence+In+The+Classroom+%7C+10+News&lang=en&timestamp=1793850072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=95" alt="Australian Schools To Restrict Use Of Artificial Intelligence In The Classroom | 10 News" title="Australian Schools To Restrict Use Of Artificial Intelligence In The Classroom | 10 News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793956062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1039">
+          <img src="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793956062&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1039" alt="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge" title="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=55ttHgpHYCM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3cV1sR2PANA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=55ttHgpHYCM&title=Will+Artificial+Intelligence+Destroy+Creativity+Or+Redefine+It%3F+%7C%C2%A0AI+Decoded+%7C%C2%A0Documentary&lang=en&timestamp=1793803272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3771">
-          <img src="https://ytcards.demolab.com/?id=55ttHgpHYCM&title=Will+Artificial+Intelligence+Destroy+Creativity+Or+Redefine+It%3F+%7C%C2%A0AI+Decoded+%7C%C2%A0Documentary&lang=en&timestamp=1793803272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3771" alt="Will Artificial Intelligence Destroy Creativity Or Redefine It? | AI Decoded | Documentary" title="Will Artificial Intelligence Destroy Creativity Or Redefine It? | AI Decoded | Documentary">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793966862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1103">
+          <img src="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793966862&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1103" alt="The Big Question: AI Bubble or Boom?" title="The Big Question: AI Bubble or Boom?">
         </picture>
       </a>
     </td>
