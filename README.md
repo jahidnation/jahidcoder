@@ -139,56 +139,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1QCXvQ5BFo0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
-          <img src="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070893&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Europeans protest construction of large AI data centres across continent" title="Europeans protest construction of large AI data centres across continent">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794241627&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
+          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794241627&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=N-lNgyf-8KA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Oh7Wylyv6is" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794056493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=584">
-          <img src="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794056493&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=584" alt="'AI will change the world: Accept it' | Piers Linney" title="'AI will change the world: Accept it' | Piers Linney">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Oh7Wylyv6is&title=Is+AI+the+next+era+of+healthcare%3F+%7C+Backscroll&lang=en&timestamp=1794252427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2071">
+          <img src="https://ytcards.demolab.com/?id=Oh7Wylyv6is&title=Is+AI+the+next+era+of+healthcare%3F+%7C+Backscroll&lang=en&timestamp=1794252427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2071" alt="Is AI the next era of healthcare? | Backscroll" title="Is AI the next era of healthcare? | Backscroll">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MuKNTziO7K8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794078093&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
-          <img src="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794078093&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours" title="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=The+Nvidia+spy+scandal%3A+how+close+is+China+to+America%27s+AI+SECRETS%3F&lang=en&timestamp=1794252427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
+          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=The+Nvidia+spy+scandal%3A+how+close+is+China+to+America%27s+AI+SECRETS%3F&lang=en&timestamp=1794252427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="The Nvidia spy scandal: how close is China to America's AI SECRETS?" title="The Nvidia spy scandal: how close is China to America's AI SECRETS?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Lug8EpNEq1E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794042093&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
-          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794042093&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lug8EpNEq1E&title=Yuval+Noah+Harari%27s+DISTURBING+Speech+About+AI+and+the+Tower+of+Babel&lang=en&timestamp=1794252427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1519">
+          <img src="https://ytcards.demolab.com/?id=Lug8EpNEq1E&title=Yuval+Noah+Harari%27s+DISTURBING+Speech+About+AI+and+the+Tower+of+Babel&lang=en&timestamp=1794252427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1519" alt="Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel" title="Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Oupq_kZfB1w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-NFyMYLlCeg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Oupq_kZfB1w&title=Will+Chinese+RAM+Fabrication+Save+Us+From+The+AI+Crisis%3F&lang=en&timestamp=1794070893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=555">
-          <img src="https://ytcards.demolab.com/?id=Oupq_kZfB1w&title=Will+Chinese+RAM+Fabrication+Save+Us+From+The+AI+Crisis%3F&lang=en&timestamp=1794070893&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=555" alt="Will Chinese RAM Fabrication Save Us From The AI Crisis?" title="Will Chinese RAM Fabrication Save Us From The AI Crisis?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
+          <img src="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="OpenAI Caught Its AI Deceiving Its Own Researchers…" title="OpenAI Caught Its AI Deceiving Its Own Researchers…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TSy-pLsJav4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7KIddSUUWOo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045693&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
-          <img src="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045693&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="AI Data centres face growing backlash • FRANCE 24 English" title="AI Data centres face growing backlash • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7KIddSUUWOo&title=%27What+a+mess%27%3A+Tech+expert+on+Nvidia+CEO%27s+spy+scandal&lang=en&timestamp=1794245227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=670">
+          <img src="https://ytcards.demolab.com/?id=7KIddSUUWOo&title=%27What+a+mess%27%3A+Tech+expert+on+Nvidia+CEO%27s+spy+scandal&lang=en&timestamp=1794245227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=670" alt="'What a mess': Tech expert on Nvidia CEO's spy scandal" title="'What a mess': Tech expert on Nvidia CEO's spy scandal">
         </picture>
       </a>
     </td>
