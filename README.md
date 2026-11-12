@@ -140,56 +140,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=42fSmDTR03g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794241627&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
-          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794241627&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794413835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904">
+          <img src="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794413835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=904" alt="AI 2027’s Authors Say We’re Already 5 Months Ahead…" title="AI 2027’s Authors Say We’re Already 5 Months Ahead…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Oh7Wylyv6is" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3C4eYrJSzuY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Oh7Wylyv6is&title=Is+AI+the+next+era+of+healthcare%3F+%7C+Backscroll&lang=en&timestamp=1794252427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2071">
-          <img src="https://ytcards.demolab.com/?id=Oh7Wylyv6is&title=Is+AI+the+next+era+of+healthcare%3F+%7C+Backscroll&lang=en&timestamp=1794252427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2071" alt="Is AI the next era of healthcare? | Backscroll" title="Is AI the next era of healthcare? | Backscroll">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794413835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
+          <img src="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794413835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="Fable 5.2 Just Made Opus 5.5 Obsolete" title="Fable 5.2 Just Made Opus 5.5 Obsolete">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=The+Nvidia+spy+scandal%3A+how+close+is+China+to+America%27s+AI+SECRETS%3F&lang=en&timestamp=1794252427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
-          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=The+Nvidia+spy+scandal%3A+how+close+is+China+to+America%27s+AI+SECRETS%3F&lang=en&timestamp=1794252427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="The Nvidia spy scandal: how close is China to America's AI SECRETS?" title="The Nvidia spy scandal: how close is China to America's AI SECRETS?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794413835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
+          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794413835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="The Economics of AI Don’t Add Up" title="The Economics of AI Don’t Add Up">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Lug8EpNEq1E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s0qUNvgFgHg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lug8EpNEq1E&title=Yuval+Noah+Harari%27s+DISTURBING+Speech+About+AI+and+the+Tower+of+Babel&lang=en&timestamp=1794252427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1519">
-          <img src="https://ytcards.demolab.com/?id=Lug8EpNEq1E&title=Yuval+Noah+Harari%27s+DISTURBING+Speech+About+AI+and+the+Tower+of+Babel&lang=en&timestamp=1794252427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1519" alt="Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel" title="Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s0qUNvgFgHg&title=Paul+Christiano%3A+Governing+Transformative+AI+%7C+The+Hinton+Lectures+2026+%28Night+3%29&lang=en&timestamp=1794446235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4726">
+          <img src="https://ytcards.demolab.com/?id=s0qUNvgFgHg&title=Paul+Christiano%3A+Governing+Transformative+AI+%7C+The+Hinton+Lectures+2026+%28Night+3%29&lang=en&timestamp=1794446235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4726" alt="Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)" title="Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-NFyMYLlCeg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
-          <img src="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="OpenAI Caught Its AI Deceiving Its Own Researchers…" title="OpenAI Caught Its AI Deceiving Its Own Researchers…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794388635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794388635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7KIddSUUWOo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3UgzF-GfJxI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7KIddSUUWOo&title=%27What+a+mess%27%3A+Tech+expert+on+Nvidia+CEO%27s+spy+scandal&lang=en&timestamp=1794245227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=670">
-          <img src="https://ytcards.demolab.com/?id=7KIddSUUWOo&title=%27What+a+mess%27%3A+Tech+expert+on+Nvidia+CEO%27s+spy+scandal&lang=en&timestamp=1794245227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=670" alt="'What a mess': Tech expert on Nvidia CEO's spy scandal" title="'What a mess': Tech expert on Nvidia CEO's spy scandal">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3UgzF-GfJxI&title=Day+366%3A+The+AI+Takeover+Blackout&lang=en&timestamp=1794417435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1396">
+          <img src="https://ytcards.demolab.com/?id=3UgzF-GfJxI&title=Day+366%3A+The+AI+Takeover+Blackout&lang=en&timestamp=1794417435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1396" alt="Day 366: The AI Takeover Blackout" title="Day 366: The AI Takeover Blackout">
         </picture>
       </a>
     </td>
