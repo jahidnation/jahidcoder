@@ -141,56 +141,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=42fSmDTR03g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LX1aom2JgUg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794413835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904">
-          <img src="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794413835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=904" alt="AI 2027’s Authors Say We’re Already 5 Months Ahead…" title="AI 2027’s Authors Say We’re Already 5 Months Ahead…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LX1aom2JgUg&title=Artificial+Intelligence+Is+Ruining+Us.&lang=en&timestamp=1794608912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1332">
+          <img src="https://ytcards.demolab.com/?id=LX1aom2JgUg&title=Artificial+Intelligence+Is+Ruining+Us.&lang=en&timestamp=1794608912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1332" alt="Artificial Intelligence Is Ruining Us." title="Artificial Intelligence Is Ruining Us.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3C4eYrJSzuY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JY85W9WRSck" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794413835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
-          <img src="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794413835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="Fable 5.2 Just Made Opus 5.5 Obsolete" title="Fable 5.2 Just Made Opus 5.5 Obsolete">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JY85W9WRSck&title=Why+AI+Can+Find+Solutions+That+Even+Humans+STRUGGLE+to+UNDERSTAND+%7C+Stephen+Wolfram&lang=en&timestamp=1794601712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8356">
+          <img src="https://ytcards.demolab.com/?id=JY85W9WRSck&title=Why+AI+Can+Find+Solutions+That+Even+Humans+STRUGGLE+to+UNDERSTAND+%7C+Stephen+Wolfram&lang=en&timestamp=1794601712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8356" alt="Why AI Can Find Solutions That Even Humans STRUGGLE to UNDERSTAND | Stephen Wolfram" title="Why AI Can Find Solutions That Even Humans STRUGGLE to UNDERSTAND | Stephen Wolfram">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SsOFOwZZnFg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794413835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794413835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="The Economics of AI Don’t Add Up" title="The Economics of AI Don’t Add Up">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SsOFOwZZnFg&title=Will+artificial+intelligence+take+your+job%3F+%7C+Insiders%3A+On+Background&lang=en&timestamp=1794626912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234">
+          <img src="https://ytcards.demolab.com/?id=SsOFOwZZnFg&title=Will+artificial+intelligence+take+your+job%3F+%7C+Insiders%3A+On+Background&lang=en&timestamp=1794626912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Will artificial intelligence take your job? | Insiders: On Background" title="Will artificial intelligence take your job? | Insiders: On Background">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s0qUNvgFgHg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PYpzQk7cH_Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s0qUNvgFgHg&title=Paul+Christiano%3A+Governing+Transformative+AI+%7C+The+Hinton+Lectures+2026+%28Night+3%29&lang=en&timestamp=1794446235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4726">
-          <img src="https://ytcards.demolab.com/?id=s0qUNvgFgHg&title=Paul+Christiano%3A+Governing+Transformative+AI+%7C+The+Hinton+Lectures+2026+%28Night+3%29&lang=en&timestamp=1794446235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4726" alt="Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)" title="Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PYpzQk7cH_Q&title=AI+startup+says+nationwide+ground+stop+was+not+caused+by+its+software&lang=en&timestamp=1794616112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=361">
+          <img src="https://ytcards.demolab.com/?id=PYpzQk7cH_Q&title=AI+startup+says+nationwide+ground+stop+was+not+caused+by+its+software&lang=en&timestamp=1794616112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=361" alt="AI startup says nationwide ground stop was not caused by its software" title="AI startup says nationwide ground stop was not caused by its software">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QRkUktKZNAg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794388635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
-          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794388635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QRkUktKZNAg&title=We+can%27t+keep+up+with+AI&lang=en&timestamp=1794580112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
+          <img src="https://ytcards.demolab.com/?id=QRkUktKZNAg&title=We+can%27t+keep+up+with+AI&lang=en&timestamp=1794580112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="We can't keep up with AI" title="We can't keep up with AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3UgzF-GfJxI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Az2aRR51fDU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3UgzF-GfJxI&title=Day+366%3A+The+AI+Takeover+Blackout&lang=en&timestamp=1794417435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1396">
-          <img src="https://ytcards.demolab.com/?id=3UgzF-GfJxI&title=Day+366%3A+The+AI+Takeover+Blackout&lang=en&timestamp=1794417435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1396" alt="Day 366: The AI Takeover Blackout" title="Day 366: The AI Takeover Blackout">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Az2aRR51fDU&title=Jensen+Huang+exits+NVIDIA+%26+does+Claude+Fable+5.2+count+as+AGI%3F&lang=en&timestamp=1794565712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2155">
+          <img src="https://ytcards.demolab.com/?id=Az2aRR51fDU&title=Jensen+Huang+exits+NVIDIA+%26+does+Claude+Fable+5.2+count+as+AGI%3F&lang=en&timestamp=1794565712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2155" alt="Jensen Huang exits NVIDIA & does Claude Fable 5.2 count as AGI?" title="Jensen Huang exits NVIDIA & does Claude Fable 5.2 count as AGI?">
         </picture>
       </a>
     </td>
