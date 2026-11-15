@@ -142,56 +142,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LX1aom2JgUg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HAF50MLyERU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LX1aom2JgUg&title=Artificial+Intelligence+Is+Ruining+Us.&lang=en&timestamp=1794608912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1332">
-          <img src="https://ytcards.demolab.com/?id=LX1aom2JgUg&title=Artificial+Intelligence+Is+Ruining+Us.&lang=en&timestamp=1794608912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1332" alt="Artificial Intelligence Is Ruining Us." title="Artificial Intelligence Is Ruining Us.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794666377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
+          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794666377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the Party over? AI's week from hell | BBC News" title="Is the Party over? AI's week from hell | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JY85W9WRSck" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Yg8GNp1Qmfk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JY85W9WRSck&title=Why+AI+Can+Find+Solutions+That+Even+Humans+STRUGGLE+to+UNDERSTAND+%7C+Stephen+Wolfram&lang=en&timestamp=1794601712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8356">
-          <img src="https://ytcards.demolab.com/?id=JY85W9WRSck&title=Why+AI+Can+Find+Solutions+That+Even+Humans+STRUGGLE+to+UNDERSTAND+%7C+Stephen+Wolfram&lang=en&timestamp=1794601712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8356" alt="Why AI Can Find Solutions That Even Humans STRUGGLE to UNDERSTAND | Stephen Wolfram" title="Why AI Can Find Solutions That Even Humans STRUGGLE to UNDERSTAND | Stephen Wolfram">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794680777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
+          <img src="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794680777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Elon Musk Says Humans Won’t Control AI – Here’s Why!" title="Elon Musk Says Humans Won’t Control AI – Here’s Why!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SsOFOwZZnFg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gkf53CJ6UTc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SsOFOwZZnFg&title=Will+artificial+intelligence+take+your+job%3F+%7C+Insiders%3A+On+Background&lang=en&timestamp=1794626912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234">
-          <img src="https://ytcards.demolab.com/?id=SsOFOwZZnFg&title=Will+artificial+intelligence+take+your+job%3F+%7C+Insiders%3A+On+Background&lang=en&timestamp=1794626912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Will artificial intelligence take your job? | Insiders: On Background" title="Will artificial intelligence take your job? | Insiders: On Background">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gkf53CJ6UTc&title=Apple%27s+New+AI+Chip+Could+Kill+Data+Centers&lang=en&timestamp=1794659177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1335">
+          <img src="https://ytcards.demolab.com/?id=gkf53CJ6UTc&title=Apple%27s+New+AI+Chip+Could+Kill+Data+Centers&lang=en&timestamp=1794659177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1335" alt="Apple's New AI Chip Could Kill Data Centers" title="Apple's New AI Chip Could Kill Data Centers">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PYpzQk7cH_Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7GNpNPxJIvU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PYpzQk7cH_Q&title=AI+startup+says+nationwide+ground+stop+was+not+caused+by+its+software&lang=en&timestamp=1794616112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=361">
-          <img src="https://ytcards.demolab.com/?id=PYpzQk7cH_Q&title=AI+startup+says+nationwide+ground+stop+was+not+caused+by+its+software&lang=en&timestamp=1794616112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=361" alt="AI startup says nationwide ground stop was not caused by its software" title="AI startup says nationwide ground stop was not caused by its software">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7GNpNPxJIvU&title=GPT-7+Is+Launching+Into+a+World+OpenAI+Can%E2%80%99t+Control&lang=en&timestamp=1794666377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1078">
+          <img src="https://ytcards.demolab.com/?id=7GNpNPxJIvU&title=GPT-7+Is+Launching+Into+a+World+OpenAI+Can%E2%80%99t+Control&lang=en&timestamp=1794666377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1078" alt="GPT-7 Is Launching Into a World OpenAI Can’t Control" title="GPT-7 Is Launching Into a World OpenAI Can’t Control">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QRkUktKZNAg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Y4cGOKbQLYw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QRkUktKZNAg&title=We+can%27t+keep+up+with+AI&lang=en&timestamp=1794580112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
-          <img src="https://ytcards.demolab.com/?id=QRkUktKZNAg&title=We+can%27t+keep+up+with+AI&lang=en&timestamp=1794580112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="We can't keep up with AI" title="We can't keep up with AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794680777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794680777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Finally Decoded Whale Language — The First Message Shocked Scientists" title="AI Finally Decoded Whale Language — The First Message Shocked Scientists">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Az2aRR51fDU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jsTF5D5bsjs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Az2aRR51fDU&title=Jensen+Huang+exits+NVIDIA+%26+does+Claude+Fable+5.2+count+as+AGI%3F&lang=en&timestamp=1794565712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2155">
-          <img src="https://ytcards.demolab.com/?id=Az2aRR51fDU&title=Jensen+Huang+exits+NVIDIA+%26+does+Claude+Fable+5.2+count+as+AGI%3F&lang=en&timestamp=1794565712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2155" alt="Jensen Huang exits NVIDIA & does Claude Fable 5.2 count as AGI?" title="Jensen Huang exits NVIDIA & does Claude Fable 5.2 count as AGI?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jsTF5D5bsjs&title=RAND+Explains+What+Happens+After+The+2027+Technological+Singularity&lang=en&timestamp=1794666377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1157">
+          <img src="https://ytcards.demolab.com/?id=jsTF5D5bsjs&title=RAND+Explains+What+Happens+After+The+2027+Technological+Singularity&lang=en&timestamp=1794666377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1157" alt="RAND Explains What Happens After The 2027 Technological Singularity" title="RAND Explains What Happens After The 2027 Technological Singularity">
         </picture>
       </a>
     </td>
