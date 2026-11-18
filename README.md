@@ -143,56 +143,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HAF50MLyERU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0MvcuIrects" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794666377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
-          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794666377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the Party over? AI's week from hell | BBC News" title="Is the Party over? AI's week from hell | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794918416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=806">
+          <img src="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794918416&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=806" alt="Is AI Really Superintelligence? ANI, AGI & ASI Explained" title="Is AI Really Superintelligence? ANI, AGI & ASI Explained">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Yg8GNp1Qmfk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eIoWgBIyyg4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794680777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
-          <img src="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794680777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Elon Musk Says Humans Won’t Control AI – Here’s Why!" title="Elon Musk Says Humans Won’t Control AI – Here’s Why!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794961616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1481">
+          <img src="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794961616&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1481" alt="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk" title="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=gkf53CJ6UTc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w9ZZgC4rJjU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gkf53CJ6UTc&title=Apple%27s+New+AI+Chip+Could+Kill+Data+Centers&lang=en&timestamp=1794659177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1335">
-          <img src="https://ytcards.demolab.com/?id=gkf53CJ6UTc&title=Apple%27s+New+AI+Chip+Could+Kill+Data+Centers&lang=en&timestamp=1794659177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1335" alt="Apple's New AI Chip Could Kill Data Centers" title="Apple's New AI Chip Could Kill Data Centers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w9ZZgC4rJjU&title=Lawyer+Reacts+l+The+WORST+AI+Music+Debate+Yet&lang=en&timestamp=1794929216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=515">
+          <img src="https://ytcards.demolab.com/?id=w9ZZgC4rJjU&title=Lawyer+Reacts+l+The+WORST+AI+Music+Debate+Yet&lang=en&timestamp=1794929216&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=515" alt="Lawyer Reacts l The WORST AI Music Debate Yet" title="Lawyer Reacts l The WORST AI Music Debate Yet">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7GNpNPxJIvU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rZLxBGqSs0E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7GNpNPxJIvU&title=GPT-7+Is+Launching+Into+a+World+OpenAI+Can%E2%80%99t+Control&lang=en&timestamp=1794666377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1078">
-          <img src="https://ytcards.demolab.com/?id=7GNpNPxJIvU&title=GPT-7+Is+Launching+Into+a+World+OpenAI+Can%E2%80%99t+Control&lang=en&timestamp=1794666377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1078" alt="GPT-7 Is Launching Into a World OpenAI Can’t Control" title="GPT-7 Is Launching Into a World OpenAI Can’t Control">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rZLxBGqSs0E&title=CHINA+Does+Not+Have+Enough&lang=en&timestamp=1794932816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
+          <img src="https://ytcards.demolab.com/?id=rZLxBGqSs0E&title=CHINA+Does+Not+Have+Enough&lang=en&timestamp=1794932816&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="CHINA Does Not Have Enough" title="CHINA Does Not Have Enough">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y4cGOKbQLYw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-Pmst8bkRaE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794680777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794680777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Finally Decoded Whale Language — The First Message Shocked Scientists" title="AI Finally Decoded Whale Language — The First Message Shocked Scientists">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox+on+How+AI+Could+Take+Over+the+World+%28and+Where+It%27s+Already+Happening%29&lang=en&timestamp=1794936416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1318">
+          <img src="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox+on+How+AI+Could+Take+Over+the+World+%28and+Where+It%27s+Already+Happening%29&lang=en&timestamp=1794936416&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1318" alt="John Lennox on How AI Could Take Over the World (and Where It's Already Happening)" title="John Lennox on How AI Could Take Over the World (and Where It's Already Happening)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jsTF5D5bsjs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aRJWhIgSFRo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jsTF5D5bsjs&title=RAND+Explains+What+Happens+After+The+2027+Technological+Singularity&lang=en&timestamp=1794666377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1157">
-          <img src="https://ytcards.demolab.com/?id=jsTF5D5bsjs&title=RAND+Explains+What+Happens+After+The+2027+Technological+Singularity&lang=en&timestamp=1794666377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1157" alt="RAND Explains What Happens After The 2027 Technological Singularity" title="RAND Explains What Happens After The 2027 Technological Singularity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aRJWhIgSFRo&title=Can+Nvidia+and+AI+survive+without+the+man+who+built+it%3F+%7C+BBC+News&lang=en&timestamp=1794958016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=999">
+          <img src="https://ytcards.demolab.com/?id=aRJWhIgSFRo&title=Can+Nvidia+and+AI+survive+without+the+man+who+built+it%3F+%7C+BBC+News&lang=en&timestamp=1794958016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=999" alt="Can Nvidia and AI survive without the man who built it? | BBC News" title="Can Nvidia and AI survive without the man who built it? | BBC News">
         </picture>
       </a>
     </td>
