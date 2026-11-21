@@ -145,56 +145,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rE-sazAVQVU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XXcWhCEiDeQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rE-sazAVQVU&title=Why+AI+engineers+are+scared+of+self-building+artificial+intelligence+%7C+The+Economist&lang=en&timestamp=1795108554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601">
-          <img src="https://ytcards.demolab.com/?id=rE-sazAVQVU&title=Why+AI+engineers+are+scared+of+self-building+artificial+intelligence+%7C+The+Economist&lang=en&timestamp=1795108554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=601" alt="Why AI engineers are scared of self-building artificial intelligence | The Economist" title="Why AI engineers are scared of self-building artificial intelligence | The Economist">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXcWhCEiDeQ&title=Gen+AI+Is+Getting+Impossible+To+Tell%E2%80%A6&lang=en&timestamp=1795197930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1165">
+          <img src="https://ytcards.demolab.com/?id=XXcWhCEiDeQ&title=Gen+AI+Is+Getting+Impossible+To+Tell%E2%80%A6&lang=en&timestamp=1795197930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1165" alt="Gen AI Is Getting Impossible To Tell…" title="Gen AI Is Getting Impossible To Tell…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1uT1lAbgaWo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=miaREoBO7Oc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1uT1lAbgaWo&title=Ex-VP+Al+Gore+on+Putin%2C+AI%2C+climate+change+%26+more&lang=en&timestamp=1795122954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1027">
-          <img src="https://ytcards.demolab.com/?id=1uT1lAbgaWo&title=Ex-VP+Al+Gore+on+Putin%2C+AI%2C+climate+change+%26+more&lang=en&timestamp=1795122954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1027" alt="Ex-VP Al Gore on Putin, AI, climate change & more" title="Ex-VP Al Gore on Putin, AI, climate change & more">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=miaREoBO7Oc&title=What+Anthropic%27s+record+IPO+reveals+about+the+AI+bubble+%7C+DW+News&lang=en&timestamp=1795215930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1191">
+          <img src="https://ytcards.demolab.com/?id=miaREoBO7Oc&title=What+Anthropic%27s+record+IPO+reveals+about+the+AI+bubble+%7C+DW+News&lang=en&timestamp=1795215930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1191" alt="What Anthropic's record IPO reveals about the AI bubble | DW News" title="What Anthropic's record IPO reveals about the AI bubble | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2f4HuzzKeHo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rfKwIZMZeTk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2f4HuzzKeHo&title=Will+AI+favour+dictatorships%3F+%7C+The+Global+Story&lang=en&timestamp=1795126554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1458">
-          <img src="https://ytcards.demolab.com/?id=2f4HuzzKeHo&title=Will+AI+favour+dictatorships%3F+%7C+The+Global+Story&lang=en&timestamp=1795126554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1458" alt="Will AI favour dictatorships? | The Global Story" title="Will AI favour dictatorships? | The Global Story">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rfKwIZMZeTk&title=ARTIFICIAL+Official+Trailer+%282027%29+Andrew+Garfield%2C+New+Sci-Fi+Movies+4K&lang=en&timestamp=1795194330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
+          <img src="https://ytcards.demolab.com/?id=rfKwIZMZeTk&title=ARTIFICIAL+Official+Trailer+%282027%29+Andrew+Garfield%2C+New+Sci-Fi+Movies+4K&lang=en&timestamp=1795194330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="ARTIFICIAL Official Trailer (2027) Andrew Garfield, New Sci-Fi Movies 4K" title="ARTIFICIAL Official Trailer (2027) Andrew Garfield, New Sci-Fi Movies 4K">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AaCCIvRtJ5o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NXW-vPOc3SM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AaCCIvRtJ5o&title=A+Global+Crisis%2C+Artificial+Intelligence%2C+and+a+Warning+We+Shouldn%27t+Ignore...+%7C+The+Truth+11-19-26&lang=en&timestamp=1795137354&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=880">
-          <img src="https://ytcards.demolab.com/?id=AaCCIvRtJ5o&title=A+Global+Crisis%2C+Artificial+Intelligence%2C+and+a+Warning+We+Shouldn%27t+Ignore...+%7C+The+Truth+11-19-26&lang=en&timestamp=1795137354&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=880" alt="A Global Crisis, Artificial Intelligence, and a Warning We Shouldn't Ignore... | The Truth 11-19-26" title="A Global Crisis, Artificial Intelligence, and a Warning We Shouldn't Ignore... | The Truth 11-19-26">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795183530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4672">
+          <img src="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795183530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4672" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Bmby0X7cBa8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Ettph184FS8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Bmby0X7cBa8&title=How+to+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+Artificial+Intelligence&lang=en&timestamp=1795108554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2044">
-          <img src="https://ytcards.demolab.com/?id=Bmby0X7cBa8&title=How+to+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+Artificial+Intelligence&lang=en&timestamp=1795108554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2044" alt="How to ████ ██ Artificial Intelligence" title="How to ████ ██ Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ettph184FS8&title=AI+Insiders+Risk+Everything+to+Reveal+What+Happens+to+Us+in+90+Days&lang=en&timestamp=1795212330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=769">
+          <img src="https://ytcards.demolab.com/?id=Ettph184FS8&title=AI+Insiders+Risk+Everything+to+Reveal+What+Happens+to+Us+in+90+Days&lang=en&timestamp=1795212330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=769" alt="AI Insiders Risk Everything to Reveal What Happens to Us in 90 Days" title="AI Insiders Risk Everything to Reveal What Happens to Us in 90 Days">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mzNbUQPLIkk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Ooa81dvNAf4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mzNbUQPLIkk&title=%27This+Technology+Has+Risks%27%3A+Anthropic+CEO%27s+Stark+AI+Warning+Before+Historic+Nasdaq+IPO+Debut&lang=en&timestamp=1795101354&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146">
-          <img src="https://ytcards.demolab.com/?id=mzNbUQPLIkk&title=%27This+Technology+Has+Risks%27%3A+Anthropic+CEO%27s+Stark+AI+Warning+Before+Historic+Nasdaq+IPO+Debut&lang=en&timestamp=1795101354&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=146" alt="'This Technology Has Risks': Anthropic CEO's Stark AI Warning Before Historic Nasdaq IPO Debut" title="'This Technology Has Risks': Anthropic CEO's Stark AI Warning Before Historic Nasdaq IPO Debut">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ooa81dvNAf4&title=How+can+AI+kill+us+all%3F+Eight+existential+risk+scenarios+with+Prof.+Geoffrey+Hinton&lang=en&timestamp=1795154730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6200">
+          <img src="https://ytcards.demolab.com/?id=Ooa81dvNAf4&title=How+can+AI+kill+us+all%3F+Eight+existential+risk+scenarios+with+Prof.+Geoffrey+Hinton&lang=en&timestamp=1795154730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6200" alt="How can AI kill us all? Eight existential risk scenarios with Prof. Geoffrey Hinton" title="How can AI kill us all? Eight existential risk scenarios with Prof. Geoffrey Hinton">
         </picture>
       </a>
     </td>
