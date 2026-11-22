@@ -146,56 +146,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XXcWhCEiDeQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-MiM5xfAe2c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXcWhCEiDeQ&title=Gen+AI+Is+Getting+Impossible+To+Tell%E2%80%A6&lang=en&timestamp=1795197930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1165">
-          <img src="https://ytcards.demolab.com/?id=XXcWhCEiDeQ&title=Gen+AI+Is+Getting+Impossible+To+Tell%E2%80%A6&lang=en&timestamp=1795197930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1165" alt="Gen AI Is Getting Impossible To Tell…" title="Gen AI Is Getting Impossible To Tell…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MiM5xfAe2c&title=AI+Is+Getting+Intelligent.+But+Not+How+You+Think&lang=en&timestamp=1795279263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
+          <img src="https://ytcards.demolab.com/?id=-MiM5xfAe2c&title=AI+Is+Getting+Intelligent.+But+Not+How+You+Think&lang=en&timestamp=1795279263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="AI Is Getting Intelligent. But Not How You Think" title="AI Is Getting Intelligent. But Not How You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=miaREoBO7Oc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YKS34sswxbg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=miaREoBO7Oc&title=What+Anthropic%27s+record+IPO+reveals+about+the+AI+bubble+%7C+DW+News&lang=en&timestamp=1795215930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1191">
-          <img src="https://ytcards.demolab.com/?id=miaREoBO7Oc&title=What+Anthropic%27s+record+IPO+reveals+about+the+AI+bubble+%7C+DW+News&lang=en&timestamp=1795215930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1191" alt="What Anthropic's record IPO reveals about the AI bubble | DW News" title="What Anthropic's record IPO reveals about the AI bubble | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YKS34sswxbg&title=AI+that+builds+itself%3A+Golden+age+or+time+to+panic%3F+%7C+BBC+News&lang=en&timestamp=1795264863&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=946">
+          <img src="https://ytcards.demolab.com/?id=YKS34sswxbg&title=AI+that+builds+itself%3A+Golden+age+or+time+to+panic%3F+%7C+BBC+News&lang=en&timestamp=1795264863&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=946" alt="AI that builds itself: Golden age or time to panic? | BBC News" title="AI that builds itself: Golden age or time to panic? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rfKwIZMZeTk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2I4qMBiK6hg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rfKwIZMZeTk&title=ARTIFICIAL+Official+Trailer+%282027%29+Andrew+Garfield%2C+New+Sci-Fi+Movies+4K&lang=en&timestamp=1795194330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
-          <img src="https://ytcards.demolab.com/?id=rfKwIZMZeTk&title=ARTIFICIAL+Official+Trailer+%282027%29+Andrew+Garfield%2C+New+Sci-Fi+Movies+4K&lang=en&timestamp=1795194330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="ARTIFICIAL Official Trailer (2027) Andrew Garfield, New Sci-Fi Movies 4K" title="ARTIFICIAL Official Trailer (2027) Andrew Garfield, New Sci-Fi Movies 4K">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2I4qMBiK6hg&title=AI+out+of+control%3F+-+Why+Artificial+Intelligence+experts+are+sounding+the+alarm+%7C+DW+Documentary&lang=en&timestamp=1795282863&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5332">
+          <img src="https://ytcards.demolab.com/?id=2I4qMBiK6hg&title=AI+out+of+control%3F+-+Why+Artificial+Intelligence+experts+are+sounding+the+alarm+%7C+DW+Documentary&lang=en&timestamp=1795282863&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5332" alt="AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary" title="AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NXW-vPOc3SM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qfxDqTTNIQI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795183530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4672">
-          <img src="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795183530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4672" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qfxDqTTNIQI&title=Are+we+witnessing+the+burst+of+the+AI+bubble%3F&lang=en&timestamp=1795300863&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=216">
+          <img src="https://ytcards.demolab.com/?id=qfxDqTTNIQI&title=Are+we+witnessing+the+burst+of+the+AI+bubble%3F&lang=en&timestamp=1795300863&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=216" alt="Are we witnessing the burst of the AI bubble?" title="Are we witnessing the burst of the AI bubble?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ettph184FS8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w90JkdOX2os" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ettph184FS8&title=AI+Insiders+Risk+Everything+to+Reveal+What+Happens+to+Us+in+90+Days&lang=en&timestamp=1795212330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=769">
-          <img src="https://ytcards.demolab.com/?id=Ettph184FS8&title=AI+Insiders+Risk+Everything+to+Reveal+What+Happens+to+Us+in+90+Days&lang=en&timestamp=1795212330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=769" alt="AI Insiders Risk Everything to Reveal What Happens to Us in 90 Days" title="AI Insiders Risk Everything to Reveal What Happens to Us in 90 Days">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w90JkdOX2os&title=Which+jobs+are+still+safe+from+AI%3F+%7C+DW+News&lang=en&timestamp=1795264863&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
+          <img src="https://ytcards.demolab.com/?id=w90JkdOX2os&title=Which+jobs+are+still+safe+from+AI%3F+%7C+DW+News&lang=en&timestamp=1795264863&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="Which jobs are still safe from AI? | DW News" title="Which jobs are still safe from AI? | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ooa81dvNAf4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-wRPYMn06MQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ooa81dvNAf4&title=How+can+AI+kill+us+all%3F+Eight+existential+risk+scenarios+with+Prof.+Geoffrey+Hinton&lang=en&timestamp=1795154730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6200">
-          <img src="https://ytcards.demolab.com/?id=Ooa81dvNAf4&title=How+can+AI+kill+us+all%3F+Eight+existential+risk+scenarios+with+Prof.+Geoffrey+Hinton&lang=en&timestamp=1795154730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6200" alt="How can AI kill us all? Eight existential risk scenarios with Prof. Geoffrey Hinton" title="How can AI kill us all? Eight existential risk scenarios with Prof. Geoffrey Hinton">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-wRPYMn06MQ&title=Trump+goes+all+in+on+AI+while+DOWNPLAYING+Americans%27+top+concerns+%7C+Roll+the+Tape&lang=en&timestamp=1795268463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600">
+          <img src="https://ytcards.demolab.com/?id=-wRPYMn06MQ&title=Trump+goes+all+in+on+AI+while+DOWNPLAYING+Americans%27+top+concerns+%7C+Roll+the+Tape&lang=en&timestamp=1795268463&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=600" alt="Trump goes all in on AI while DOWNPLAYING Americans' top concerns | Roll the Tape" title="Trump goes all in on AI while DOWNPLAYING Americans' top concerns | Roll the Tape">
         </picture>
       </a>
     </td>
